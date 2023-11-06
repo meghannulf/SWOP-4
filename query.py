@@ -15,8 +15,11 @@ args = parser.parse_args()
 
 def doQuery(query, format, outfile):
 	safeQueryString = urllib.parse.quote_plus(query)
-
-	res = requests.get("https://dbpedia.org/sparql/?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=" + safeQueryString + "&format=text%2F" + format + "&timeout=30000")
+	if format == "json":
+		format = "application%2Fsparql-results%2Bjson"
+	else:
+		format = "text%2F" + format
+	res = requests.get("https://dbpedia.org/sparql/?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=" + safeQueryString + "&format=" + format + "&timeout=30000")
 	file = open(outfile, "w")
 	file.write(res.content.decode("utf-8"))
 	file.close()
