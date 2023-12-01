@@ -1,0 +1,21 @@
+SELECT DISTINCT ?movie ?title  (GROUP_CONCAT (DISTINCT ?genreName_;separator="; ") as ?genreName) ?grossNum ?grossUnit ?duration (MIN(?pubDate_) as  ?pubDate ) 
+WHERE {
+    ?movie wdt:P31 wd:Q11424 ;  # Instance of film
+             rdfs:label ?title .
+    ?movie wdt:P136 ?genre .# Genre
+    ?movie p:P2142 ?gross  .# Gross revenue
+    ?movie wdt:P577 ?releaseDate . 
+    ?genre wdt:P1813 ?genreName_ . 
+    ?gross pq:P3005 wd:Q13780930 . # gross only in worldwide
+    ?gross psv:P2142 ?grossValueNode .
+    ?grossValueNode wikibase:quantityAmount ?grossNum.
+    ?grossValueNode wikibase:quantityUnit ?grossUnit.
+    ?movie wdt:P2047 ?duration .
+    ?movie p:P577/psv:P577 ?stat . 
+    ?stat wikibase:timeValue ?pubDate_ .
+    ?stat wikibase:timePrecision "11"^^xsd:integer . 
+           
+    FILTER (REGEX(STR(?title), "^[A-Za-z]", "i") && LANG(?title) = "en") .
+} GROUP BY ?movie ?title ?grossNum ?grossUnit ?duration 
+ORDER BY ?title ?pubDate
+

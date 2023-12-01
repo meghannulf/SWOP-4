@@ -1,0 +1,734 @@
+movie,title,genreName,grossNum,grossUnit,duration,pubDate
+http://www.wikidata.org/entity/Q300356,A Chinese Ghost Story,fantasy,3783972.0,http://www.wikidata.org/entity/Q4917,92.0,1987-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q39070473,A Quiet Place,илмӣ-тахаюллӣ; Horror; горор; sci-fi,340939361.0,http://www.wikidata.org/entity/Q4917,90.0,2018-04-05T00:00:00Z
+http://www.wikidata.org/entity/Q39070473,A Quiet Place,Horror; горор; sci-fi; илмӣ-тахаюллӣ,340952971.0,http://www.wikidata.org/entity/Q4917,90.0,2018-04-05T00:00:00Z
+http://www.wikidata.org/entity/Q56277622,A Shaun the Sheep Movie: Farmageddon,sci-fi; илмӣ-тахаюллӣ,16489589.0,http://www.wikidata.org/entity/Q4917,87.0,2019-04-05T00:00:00Z
+http://www.wikidata.org/entity/Q255260,A Tale of Two Sisters,горор; Horror,1062878.0,http://www.wikidata.org/entity/Q4917,110.0,2003-06-13T00:00:00Z
+http://www.wikidata.org/entity/Q28698824,A Taxi Driver,action,86252940.0,http://www.wikidata.org/entity/Q4917,137.0,2017-08-02T00:00:00Z
+http://www.wikidata.org/entity/Q332368,A View to a Kill,action,152400000.0,http://www.wikidata.org/entity/Q4917,131.0,1985-05-24T00:00:00Z
+http://www.wikidata.org/entity/Q221113,A.I. Artificial Intelligence,sci-fi; илмӣ-тахаюллӣ,235926552.0,http://www.wikidata.org/entity/Q4917,146.0,2001-06-29T00:00:00Z
+http://www.wikidata.org/entity/Q38774788,Ad Astra,sci-fi; илмӣ-тахаюллӣ,127461872.0,http://www.wikidata.org/entity/Q4917,123.0,2019-08-29T00:00:00Z
+http://www.wikidata.org/entity/Q204725,Addams Family Values,fantasy; Horror; горор,110900000.0,http://www.wikidata.org/entity/Q4917,90.0,1993-11-19T00:00:00Z
+http://www.wikidata.org/entity/Q1254088,After Earth,action; sci-fi; илмӣ-тахаюллӣ,243800000.0,http://www.wikidata.org/entity/Q4917,100.0,2013-05-31T00:00:00Z
+http://www.wikidata.org/entity/Q63398229,After Yang,sci-fi; илмӣ-тахаюллӣ,729254.0,http://www.wikidata.org/entity/Q4917,96.0,2022-01-21T00:00:00Z
+http://www.wikidata.org/entity/Q407184,Air Force One,action,315156409.0,http://www.wikidata.org/entity/Q4917,124.0,1997-07-25T00:00:00Z
+http://www.wikidata.org/entity/Q1346658,Airport '77,action,91000000.0,http://www.wikidata.org/entity/Q4917,114.0,1977-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q392924,Airport 1975,action,103000000.0,http://www.wikidata.org/entity/Q4917,107.0,1974-10-18T00:00:00Z
+http://www.wikidata.org/entity/Q27188178,Aladdin,fantasy; action,1050693953.0,http://www.wikidata.org/entity/Q4917,128.0,2019-05-22T00:00:00Z
+http://www.wikidata.org/entity/Q27188178,Aladdin,fantasy; action,1050693953.0,http://www.wikidata.org/entity/Q4917,129.0,2019-05-22T00:00:00Z
+http://www.wikidata.org/entity/Q103569,Alien,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,106285522.0,http://www.wikidata.org/entity/Q4917,117.0,1979-05-25T00:00:00Z
+http://www.wikidata.org/entity/Q2346766,Alien Nation,илмӣ-тахаюллӣ; action; sci-fi,32155047.0,http://www.wikidata.org/entity/Q4917,91.0,1988-10-07T00:00:00Z
+http://www.wikidata.org/entity/Q20430699,Alien: Covenant,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,240891763.0,http://www.wikidata.org/entity/Q4917,122.0,2017-05-12T00:00:00Z
+http://www.wikidata.org/entity/Q104814,Aliens,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,131060248.0,http://www.wikidata.org/entity/Q4917,137.0,1986-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q259937,Alligator,sci-fi; илмӣ-тахаюллӣ,6459000.0,http://www.wikidata.org/entity/Q4917,87.0,1980-11-14T00:00:00Z
+http://www.wikidata.org/entity/Q16970789,American Sniper,action,547426372.0,http://www.wikidata.org/entity/Q4917,132.0,2014-12-25T00:00:00Z
+http://www.wikidata.org/entity/Q21511509,Annabelle: Creation,горор; Horror,306515884.0,http://www.wikidata.org/entity/Q4917,109.0,2017-08-10T00:00:00Z
+http://www.wikidata.org/entity/Q25136228,Annihilation,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,43070915.0,http://www.wikidata.org/entity/Q4917,115.0,2018-02-23T00:00:00Z
+http://www.wikidata.org/entity/Q5901134,Ant-Man,action; sci-fi; илмӣ-тахаюллӣ,519311965.0,http://www.wikidata.org/entity/Q4917,117.0,2015-07-14T00:00:00Z
+http://www.wikidata.org/entity/Q22957393,Ant-Man and the Wasp,sci-fi; илмӣ-тахаюллӣ; action,622674139.0,http://www.wikidata.org/entity/Q4917,118.0,2018-07-04T00:00:00Z
+http://www.wikidata.org/entity/Q105359456,Ant-Man and the Wasp: Quantumania,sci-fi; илмӣ-тахаюллӣ; action,476069301.0,http://www.wikidata.org/entity/Q4917,125.0,2023-02-15T00:00:00Z
+http://www.wikidata.org/entity/Q182692,Apocalypse Now,action,92158064.0,http://www.wikidata.org/entity/Q4917,153.0,1979-05-10T00:00:00Z
+http://www.wikidata.org/entity/Q22998395,Aquaman,fantasy; action; sci-fi; илмӣ-тахаюллӣ,1148528393.0,http://www.wikidata.org/entity/Q4917,143.0,2018-11-26T00:00:00Z
+http://www.wikidata.org/entity/Q624055,Arabian Nights,action,3453416.0,http://www.wikidata.org/entity/Q4917,87.0,1942-12-25T00:00:00Z
+http://www.wikidata.org/entity/Q208344,Armageddon,action; sci-fi; илмӣ-тахаюллӣ,553709788.0,http://www.wikidata.org/entity/Q4917,151.0,1998-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q471992,Army of Darkness,fantasy; Horror; горор,21502976.0,http://www.wikidata.org/entity/Q4917,81.0,1992-10-09T00:00:00Z
+http://www.wikidata.org/entity/Q20382729,Arrival,sci-fi; илмӣ-тахаюллӣ,203388186.0,http://www.wikidata.org/entity/Q4917,116.0,2016-11-10T00:00:00Z
+http://www.wikidata.org/entity/Q15992467,As the Gods Will,action,1938654.0,http://www.wikidata.org/entity/Q4917,117.0,2014-11-15T00:00:00Z
+http://www.wikidata.org/entity/Q18816889,Assassin's Creed,fantasy; action; sci-fi; илмӣ-тахаюллӣ,240942515.0,http://www.wikidata.org/entity/Q4917,115.0,2016-12-21T00:00:00Z
+http://www.wikidata.org/entity/Q18816889,Assassin's Creed,fantasy; action; sci-fi; илмӣ-тахаюллӣ,240697856.0,http://www.wikidata.org/entity/Q4917,115.0,2016-12-21T00:00:00Z
+http://www.wikidata.org/entity/Q604192,Atanarjuat: The Fast Runner,fantasy,5204281.0,http://www.wikidata.org/entity/Q4917,167.0,2001-05-13T00:00:00Z
+http://www.wikidata.org/entity/Q21528112,Atomic Blonde,action,100014025.0,http://www.wikidata.org/entity/Q4917,115.0,2017-07-27T00:00:00Z
+http://www.wikidata.org/entity/Q3604746,Avatar: The Way of Water,илмӣ-тахаюллӣ; action; sci-fi,2176229105.0,http://www.wikidata.org/entity/Q4917,192.0,2022-12-14T00:00:00Z
+http://www.wikidata.org/entity/Q14171368,Avengers: Age of Ultron,sci-fi; илмӣ-тахаюллӣ,1402805868.0,http://www.wikidata.org/entity/Q4917,141.0,2015-04-22T00:00:00Z
+http://www.wikidata.org/entity/Q23781155,Avengers: Endgame,action,2797501328.0,http://www.wikidata.org/entity/Q4917,181.0,2019-04-22T00:00:00Z
+http://www.wikidata.org/entity/Q23780914,Avengers: Infinity War,action; sci-fi; илмӣ-тахаюллӣ,2048359754.0,http://www.wikidata.org/entity/Q4917,149.0,2018-04-25T00:00:00Z
+http://www.wikidata.org/entity/Q21001674,Baahubali 2: The Conclusion,fantasy; action,254200000.0,http://www.wikidata.org/entity/Q4917,167.0,2017-04-27T00:00:00Z
+http://www.wikidata.org/entity/Q23016644,Baby Driver,action,226945087.0,http://www.wikidata.org/entity/Q4917,113.0,2017-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q3079834,Baby Genius,sci-fi; илмӣ-тахаюллӣ,36450736.0,http://www.wikidata.org/entity/Q4917,97.0,1999-03-12T00:00:00Z
+http://www.wikidata.org/entity/Q91540,Back to the Future,илмӣ-тахаюллӣ; sci-fi,383336762.0,http://www.wikidata.org/entity/Q4917,92.0,1985-07-03T00:00:00Z
+http://www.wikidata.org/entity/Q539269,Bad Boys II,action,273339556.0,http://www.wikidata.org/entity/Q4917,141.0,2003-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q276523,Batman & Robin,action; sci-fi; илмӣ-тахаюллӣ,238235719.0,http://www.wikidata.org/entity/Q4917,125.0,1997-06-20T00:00:00Z
+http://www.wikidata.org/entity/Q166262,Batman Begins,action,373672993.0,http://www.wikidata.org/entity/Q4917,140.0,2005-06-15T00:00:00Z
+http://www.wikidata.org/entity/Q221345,Batman Forever,fantasy; action,336567158.0,http://www.wikidata.org/entity/Q4917,117.0,1995-06-16T00:00:00Z
+http://www.wikidata.org/entity/Q189054,Batman Returns,action; sci-fi; илмӣ-тахаюллӣ; fantasy,266915287.0,http://www.wikidata.org/entity/Q4917,126.0,1992-06-16T00:00:00Z
+http://www.wikidata.org/entity/Q26684198,Batman: Return of the Caped Crusaders,action; sci-fi; илмӣ-тахаюллӣ,56711.0,http://www.wikidata.org/entity/Q4917,78.0,2016-10-11T00:00:00Z
+http://www.wikidata.org/entity/Q1170818,Batteries Not Included,илмӣ-тахаюллӣ; fantasy; sci-fi,65088797.0,http://www.wikidata.org/entity/Q4917,102.0,1987-12-18T00:00:00Z
+http://www.wikidata.org/entity/Q816156,Below,Horror; горор,2622015.0,http://www.wikidata.org/entity/Q4917,105.0,2002-10-11T00:00:00Z
+http://www.wikidata.org/entity/Q180098,Ben-Hur,action,164000000.0,http://www.wikidata.org/entity/Q4917,222.0,1959-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q525860,Beverly Hills Cop II,action,299965036.0,http://www.wikidata.org/entity/Q4917,100.0,1987-05-20T00:00:00Z
+http://www.wikidata.org/entity/Q858467,Big,fantasy,151927281.0,http://www.wikidata.org/entity/Q4917,104.0,1988-06-03T00:00:00Z
+http://www.wikidata.org/entity/Q1194035,Big Man Japan,fantasy,9795470.0,http://www.wikidata.org/entity/Q4917,113.0,2007-06-02T00:00:00Z
+http://www.wikidata.org/entity/Q57177410,Birds of Prey,action,205372791.0,http://www.wikidata.org/entity/Q4917,109.0,2020-02-06T00:00:00Z
+http://www.wikidata.org/entity/Q28657013,Black Adam,fantasy; action; sci-fi; илмӣ-тахаюллӣ,392952111.0,http://www.wikidata.org/entity/Q4917,124.0,2022-10-19T00:00:00Z
+http://www.wikidata.org/entity/Q221384,Black Hawk Down,action,172989651.0,http://www.wikidata.org/entity/Q4917,143.0,2001-12-18T00:00:00Z
+http://www.wikidata.org/entity/Q23780734,Black Panther,action; sci-fi; илмӣ-тахаюллӣ,1347597973.0,http://www.wikidata.org/entity/Q4917,134.0,2018-02-14T00:00:00Z
+http://www.wikidata.org/entity/Q54860489,Black Panther: Wakanda Forever,action,859208836.0,http://www.wikidata.org/entity/Q4917,161.0,2022-11-09T00:00:00Z
+http://www.wikidata.org/entity/Q1048085,Black Rain,action,134212055.0,http://www.wikidata.org/entity/Q4917,125.0,1989-09-22T00:00:00Z
+http://www.wikidata.org/entity/Q180214,Black Swan,Horror; горор,329398046.0,http://www.wikidata.org/entity/Q4917,108.0,2010-09-01T00:00:00Z
+http://www.wikidata.org/entity/Q23894626,Black Widow,action; sci-fi; илмӣ-тахаюллӣ,379751655.0,http://www.wikidata.org/entity/Q4917,133.0,2021-07-07T00:00:00Z
+http://www.wikidata.org/entity/Q3429263,Blade,fantasy; action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,131211377.0,http://www.wikidata.org/entity/Q4917,120.0,1998-08-19T00:00:00Z
+http://www.wikidata.org/entity/Q159638,Blade II,илмӣ-тахаюллӣ; fantasy; action; Horror; горор; sci-fi,155010032.0,http://www.wikidata.org/entity/Q4917,117.0,2002-03-12T00:00:00Z
+http://www.wikidata.org/entity/Q184843,Blade Runner,action; sci-fi; илмӣ-тахаюллӣ,41722424.0,http://www.wikidata.org/entity/Q4917,112.0,1982-06-25T00:00:00Z
+http://www.wikidata.org/entity/Q21500755,Blade Runner 2049,action; sci-fi; илмӣ-тахаюллӣ,259239658.0,http://www.wikidata.org/entity/Q4917,164.0,2017-10-04T00:00:00Z
+http://www.wikidata.org/entity/Q28213068,Blade of the Immortal,action,7162617.0,http://www.wikidata.org/entity/Q4917,141.0,2017-04-29T00:00:00Z
+http://www.wikidata.org/entity/Q217008,Blade: Trinity,fantasy; action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,131977904.0,http://www.wikidata.org/entity/Q4917,113.0,2004-12-08T00:00:00Z
+http://www.wikidata.org/entity/Q884473,Blitz,action,15774948.0,http://www.wikidata.org/entity/Q4917,97.0,2011-05-20T00:00:00Z
+http://www.wikidata.org/entity/Q724960,Bloodsport,action,50000000.0,http://www.wikidata.org/entity/Q4917,92.0,1988-02-26T00:00:00Z
+http://www.wikidata.org/entity/Q107071554,Bodies Bodies Bodies,чёрная комедия; Horror; горор,13929670.0,http://www.wikidata.org/entity/Q4917,94.0,2022-03-14T00:00:00Z
+http://www.wikidata.org/entity/Q107325,Bram Stoker's Dracula,Horror; горор,215862692.0,http://www.wikidata.org/entity/Q4917,128.0,1992-11-13T00:00:00Z
+http://www.wikidata.org/entity/Q162729,Braveheart,action,213200000.0,http://www.wikidata.org/entity/Q4917,177.0,1995-05-24T00:00:00Z
+http://www.wikidata.org/entity/Q875904,Bride of Frankenstein,Horror; горор; sci-fi; илмӣ-тахаюллӣ,2000000.0,http://www.wikidata.org/entity/Q4917,78.0,1935-04-20T00:00:00Z
+http://www.wikidata.org/entity/Q99900595,Bullet Train,action,239246943.0,http://www.wikidata.org/entity/Q4917,126.0,2022-07-14T00:00:00Z
+http://www.wikidata.org/entity/Q1004410,Bullet in the Head,action,8545123.0,http://www.wikidata.org/entity/Q31015,136.0,1990-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q64174907,Candyman,Horror; горор,77411570.0,http://www.wikidata.org/entity/Q4917,91.0,2021-08-26T00:00:00Z
+http://www.wikidata.org/entity/Q275120,Captain America: The First Avenger,sci-fi; илмӣ-тахаюллӣ; action,370569774.0,http://www.wikidata.org/entity/Q4917,124.0,2011-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q1765358,Captain America: The Winter Soldier,action; sci-fi; илмӣ-тахаюллӣ,714421503.0,http://www.wikidata.org/entity/Q4917,136.0,2014-03-26T00:00:00Z
+http://www.wikidata.org/entity/Q23781129,Captain Marvel,action; sci-fi; илмӣ-тахаюллӣ,1128462972.0,http://www.wikidata.org/entity/Q4917,124.0,2019-03-06T00:00:00Z
+http://www.wikidata.org/entity/Q2937646,Captain Phillips,action,218791811.0,http://www.wikidata.org/entity/Q4917,134.0,2013-09-27T00:00:00Z
+http://www.wikidata.org/entity/Q1601716,Captains of the Clouds,action,3428000.0,http://www.wikidata.org/entity/Q4917,113.0,1942-02-12T00:00:00Z
+http://www.wikidata.org/entity/Q220910,Casino,heist,116112375.0,http://www.wikidata.org/entity/Q4917,178.0,1995-11-14T00:00:00Z
+http://www.wikidata.org/entity/Q1048166,Casper,fantasy,287928194.0,http://www.wikidata.org/entity/Q4917,100.0,1995-05-26T00:00:00Z
+http://www.wikidata.org/entity/Q208108,Catch Me If You Can,heist,352114312.0,http://www.wikidata.org/entity/Q4917,135.0,2002-12-16T00:00:00Z
+http://www.wikidata.org/entity/Q58701890,Cats,fantasy,17090175.0,http://www.wikidata.org/entity/Q4917,110.0,2019-12-20T00:00:00Z
+http://www.wikidata.org/entity/Q1051315,Cats & Dogs,action,200700000.0,http://www.wikidata.org/entity/Q4917,83.0,2001-07-04T00:00:00Z
+http://www.wikidata.org/entity/Q115760,Catwoman,fantasy; action,82102379.0,http://www.wikidata.org/entity/Q4917,104.0,2004-07-19T00:00:00Z
+http://www.wikidata.org/entity/Q19867575,Central Intelligence,action,217000000.0,http://www.wikidata.org/entity/Q4917,107.0,2016-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q19867575,Central Intelligence,action,217000000.0,http://www.wikidata.org/entity/Q4917,108.0,2016-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q19867575,Central Intelligence,action,217000000.0,http://www.wikidata.org/entity/Q4917,155.0,2016-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q218235,Charlie and the Chocolate Factory,fantasy; чёрная комедия,475000000.0,http://www.wikidata.org/entity/Q4917,115.0,2005-07-10T00:00:00Z
+http://www.wikidata.org/entity/Q229599,Charlie's Angels,action,264100000.0,http://www.wikidata.org/entity/Q4917,98.0,2000-10-22T00:00:00Z
+http://www.wikidata.org/entity/Q229603,Charlie's Angels: Full Throttle,action,259200000.0,http://www.wikidata.org/entity/Q4917,106.0,2003-07-10T00:00:00Z
+http://www.wikidata.org/entity/Q221090,Children of Men,sci-fi; илмӣ-тахаюллӣ,70595464.0,http://www.wikidata.org/entity/Q4917,106.0,2006-09-03T00:00:00Z
+http://www.wikidata.org/entity/Q15046091,Cinderella,fantasy,542351353.0,http://www.wikidata.org/entity/Q4917,105.0,2015-03-12T00:00:00Z
+http://www.wikidata.org/entity/Q1049545,Clash of the Titans,fantasy; action,70000000.0,http://www.wikidata.org/entity/Q4917,120.0,1981-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q192979,Clash of the Titans,action; fantasy,493200000.0,http://www.wikidata.org/entity/Q4917,102.0,2010-03-26T00:00:00Z
+http://www.wikidata.org/entity/Q1392442,Clear and Present Danger,action,215887717.0,http://www.wikidata.org/entity/Q4917,141.0,1994-08-03T00:00:00Z
+http://www.wikidata.org/entity/Q496654,Click,fantasy; sci-fi; илмӣ-тахаюллӣ,237700000.0,http://www.wikidata.org/entity/Q4917,107.0,2006-06-22T00:00:00Z
+http://www.wikidata.org/entity/Q824389,Cliffhanger,action,255000211.0,http://www.wikidata.org/entity/Q4917,113.0,1993-05-28T00:00:00Z
+http://www.wikidata.org/entity/Q320588,Close Encounters of the Third Kind,sci-fi; илмӣ-тахаюллӣ,306889114.0,http://www.wikidata.org/entity/Q4917,134.0,1977-11-16T00:00:00Z
+http://www.wikidata.org/entity/Q17150929,Coherence,sci-fi; илмӣ-тахаюллӣ,139745.0,http://www.wikidata.org/entity/Q4917,87.0,2013-09-19T00:00:00Z
+http://www.wikidata.org/entity/Q110203,Collateral,action,217800000.0,http://www.wikidata.org/entity/Q4917,120.0,2004-08-05T00:00:00Z
+http://www.wikidata.org/entity/Q498383,Coma,илмӣ-тахаюллӣ; Horror; горор; sci-fi,50000000.0,http://www.wikidata.org/entity/Q4917,113.0,1978-01-06T00:00:00Z
+http://www.wikidata.org/entity/Q56063352,Come Away,fantasy,1692494.0,http://www.wikidata.org/entity/Q4917,94.0,2020-01-24T00:00:00Z
+http://www.wikidata.org/entity/Q607910,Con Air,action,224000000.0,http://www.wikidata.org/entity/Q4917,115.0,1997-06-06T00:00:00Z
+http://www.wikidata.org/entity/Q309003,Conan the Barbarian,fantasy; action,68851475.0,http://www.wikidata.org/entity/Q4917,126.0,1982-04-02T00:00:00Z
+http://www.wikidata.org/entity/Q219150,Constantine,fantasy; Horror; горор,230884728.0,http://www.wikidata.org/entity/Q4917,116.0,2005-02-17T00:00:00Z
+http://www.wikidata.org/entity/Q270215,Contact,sci-fi; илмӣ-тахаюллӣ,171120329.0,http://www.wikidata.org/entity/Q4917,144.0,1997-07-11T00:00:00Z
+http://www.wikidata.org/entity/Q164417,Corpse Bride,fantasy,118133252.0,http://www.wikidata.org/entity/Q4917,76.0,2005-09-23T00:00:00Z
+http://www.wikidata.org/entity/Q150047,Crank,action,42931041.0,http://www.wikidata.org/entity/Q4917,88.0,2006-09-01T00:00:00Z
+http://www.wikidata.org/entity/Q107883998,Crimes of the Future,Horror; горор; sci-fi; илмӣ-тахаюллӣ,4551565.0,http://www.wikidata.org/entity/Q4917,107.0,2022-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q15729025,Crimson Peak,fantasy,74679822.0,http://www.wikidata.org/entity/Q4917,119.0,2015-10-14T00:00:00Z
+http://www.wikidata.org/entity/Q1140085,Crimson Tide,action,157387195.0,http://www.wikidata.org/entity/Q4917,111.0,1995-05-12T00:00:00Z
+http://www.wikidata.org/entity/Q273978,"Crouching Tiger, Hidden Dragon",fantasy; action,213500000.0,http://www.wikidata.org/entity/Q4917,115.0,2000-05-18T00:00:00Z
+http://www.wikidata.org/entity/Q31188935,Dark Phoenix,sci-fi; илмӣ-тахаюллӣ,244676878.0,http://www.wikidata.org/entity/Q4917,114.0,2019-02-13T00:00:00Z
+http://www.wikidata.org/entity/Q323318,Dark Shadows,fantasy,245500000.0,http://www.wikidata.org/entity/Q4917,113.0,2012-05-09T00:00:00Z
+http://www.wikidata.org/entity/Q219155,Dawn of the Dead,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,66000000.0,http://www.wikidata.org/entity/Q4917,118.0,1978-09-02T00:00:00Z
+http://www.wikidata.org/entity/Q11220194,Dawn of the Planet of the Apes,sci-fi; илмӣ-тахаюллӣ,710644566.0,http://www.wikidata.org/entity/Q4917,130.0,2014-06-26T00:00:00Z
+http://www.wikidata.org/entity/Q219170,Day of the Dead,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,34004262.0,http://www.wikidata.org/entity/Q4917,102.0,1985-06-30T00:00:00Z
+http://www.wikidata.org/entity/Q19347291,Deadpool,илмӣ-тахаюллӣ; action; sci-fi,782836791.0,http://www.wikidata.org/entity/Q4917,109.0,2016-02-10T00:00:00Z
+http://www.wikidata.org/entity/Q1160186,Death Becomes Her,горор; чёрная комедия; fantasy; Horror,149022650.0,http://www.wikidata.org/entity/Q4917,99.0,1992-07-31T00:00:00Z
+http://www.wikidata.org/entity/Q1064553,Death Hunt,action,21000000.0,http://www.wikidata.org/entity/Q4917,97.0,1981-04-15T00:00:00Z
+http://www.wikidata.org/entity/Q647870,Death Race 2000,sci-fi; илмӣ-тахаюллӣ; action,8000000.0,http://www.wikidata.org/entity/Q4917,80.0,1975-04-30T00:00:00Z
+http://www.wikidata.org/entity/Q50143448,Detective Chinatown 2,action,544185156.0,http://www.wikidata.org/entity/Q4917,121.0,2018-02-15T00:00:00Z
+http://www.wikidata.org/entity/Q50143448,Detective Chinatown 2,action,544061916.0,http://www.wikidata.org/entity/Q4917,121.0,2018-02-15T00:00:00Z
+http://www.wikidata.org/entity/Q85877683,Detective Chinatown 3,action,686257563.0,http://www.wikidata.org/entity/Q4917,136.0,2021-02-12T00:00:00Z
+http://www.wikidata.org/entity/Q47492499,Detective Pikachu,sci-fi; илмӣ-тахаюллӣ; fantasy; action,433005346.0,http://www.wikidata.org/entity/Q4917,104.0,2019-05-03T00:00:00Z
+http://www.wikidata.org/entity/Q47492499,Detective Pikachu,fantasy; action; sci-fi; илмӣ-тахаюллӣ,449762638.0,http://www.wikidata.org/entity/Q4917,104.0,2019-05-03T00:00:00Z
+http://www.wikidata.org/entity/Q107914,Diamonds Are Forever,action,115999985.0,http://www.wikidata.org/entity/Q4917,120.0,1971-12-14T00:00:00Z
+http://www.wikidata.org/entity/Q1209853,Dick Tracy,action,162738726.0,http://www.wikidata.org/entity/Q4917,103.0,1990-06-15T00:00:00Z
+http://www.wikidata.org/entity/Q30931,Die Another Day,action,431971116.0,http://www.wikidata.org/entity/Q4917,133.0,2002-11-22T00:00:00Z
+http://www.wikidata.org/entity/Q105598,Die Hard,action; heist,141603197.0,http://www.wikidata.org/entity/Q4917,131.0,1988-07-15T00:00:00Z
+http://www.wikidata.org/entity/Q105993,Die Hard 2,action,240031094.0,http://www.wikidata.org/entity/Q4917,124.0,1990-07-04T00:00:00Z
+http://www.wikidata.org/entity/Q105993,Die Hard 2,action,240031274.0,http://www.wikidata.org/entity/Q4917,124.0,1990-07-04T00:00:00Z
+http://www.wikidata.org/entity/Q106871,Die Hard with a Vengeance,action; heist,366101666.0,http://www.wikidata.org/entity/Q4917,131.0,1995-05-19T00:00:00Z
+http://www.wikidata.org/entity/Q2609035,Digimon: The Movie,action,16643191.0,http://www.wikidata.org/entity/Q4917,85.0,2000-10-06T00:00:00Z
+http://www.wikidata.org/entity/Q201819,District 9,action; sci-fi; илмӣ-тахаюллӣ,210888950.0,http://www.wikidata.org/entity/Q4917,112.0,2009-08-13T00:00:00Z
+http://www.wikidata.org/entity/Q8561227,Divergent,action,288885818.0,http://www.wikidata.org/entity/Q4917,139.0,2014-03-18T00:00:00Z
+http://www.wikidata.org/entity/Q18406872,Doctor Strange,fantasy; action; sci-fi; илмӣ-тахаюллӣ,677718395.0,http://www.wikidata.org/entity/Q4917,115.0,2016-07-08T00:00:00Z
+http://www.wikidata.org/entity/Q64211112,Doctor Strange in the Multiverse of Madness,sci-fi; илмӣ-тахаюллӣ; fantasy; action; Horror; горор,955775804.0,http://www.wikidata.org/entity/Q4917,126.0,2021-05-06T00:00:00Z
+http://www.wikidata.org/entity/Q40187,Dogma,fantasy,31429330.0,http://www.wikidata.org/entity/Q4917,120.0,1999-11-12T00:00:00Z
+http://www.wikidata.org/entity/Q100801718,Don't Worry Darling,Horror; горор,87609403.0,http://www.wikidata.org/entity/Q4917,122.0,2022-09-05T00:00:00Z
+http://www.wikidata.org/entity/Q426828,Donnie Darko,fantasy; Horror; горор; sci-fi; илмӣ-тахаюллӣ,7510154.0,http://www.wikidata.org/entity/Q4917,113.0,2001-01-19T00:00:00Z
+http://www.wikidata.org/entity/Q426828,Donnie Darko,fantasy; Horror; горор; sci-fi; илмӣ-тахаюллӣ,7510154.0,http://www.wikidata.org/entity/Q4917,134.0,2001-01-19T00:00:00Z
+http://www.wikidata.org/entity/Q755523,Doom,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,58072119.0,http://www.wikidata.org/entity/Q4917,113.0,2005-10-20T00:00:00Z
+http://www.wikidata.org/entity/Q2532981,Double Dragon,fantasy; action; sci-fi; илмӣ-тахаюллӣ,4152699.0,http://www.wikidata.org/entity/Q4917,95.0,1994-11-04T00:00:00Z
+http://www.wikidata.org/entity/Q663014,Dr. Dolittle,fantasy,294500000.0,http://www.wikidata.org/entity/Q4917,82.0,1998-06-13T00:00:00Z
+http://www.wikidata.org/entity/Q102754,Dr. No,action,59600000.0,http://www.wikidata.org/entity/Q4917,105.0,1962-10-05T00:00:00Z
+http://www.wikidata.org/entity/Q131864,Dr. Seuss' How the Grinch Stole Christmas,fantasy,345100000.0,http://www.wikidata.org/entity/Q4917,101.0,2000-11-08T00:00:00Z
+http://www.wikidata.org/entity/Q105702,Dr. Strangelove,чёрная комедия,9523464.0,http://www.wikidata.org/entity/Q4917,93.0,1964-01-29T00:00:00Z
+http://www.wikidata.org/entity/Q105702,Dr. Strangelove,чёрная комедия,9523464.0,http://www.wikidata.org/entity/Q4917,102.0,1964-01-29T00:00:00Z
+http://www.wikidata.org/entity/Q3038433,Dr. Who and the Daleks,sci-fi; илмӣ-тахаюллӣ,114062.0,http://www.wikidata.org/entity/Q4917,88.0,1965-06-24T00:00:00Z
+http://www.wikidata.org/entity/Q14512114,Dracula Untold,fantasy; action; Horror; горор,217124280.0,http://www.wikidata.org/entity/Q4917,92.0,2014-10-02T00:00:00Z
+http://www.wikidata.org/entity/Q107656066,Dragon Ball Super: Super Hero,action; fantasy,69689168.0,http://www.wikidata.org/entity/Q4917,99.0,2022-06-11T00:00:00Z
+http://www.wikidata.org/entity/Q1130576,Dragon Ball Z: Wrath of the Dragon,action; sci-fi; илмӣ-тахаюллӣ,2300000000.0,http://www.wikidata.org/entity/Q8146,52.0,1995-07-15T00:00:00Z
+http://www.wikidata.org/entity/Q653303,Dragonball Evolution,sci-fi; илмӣ-тахаюллӣ; fantasy; action,55720772.0,http://www.wikidata.org/entity/Q4917,82.0,2009-03-13T00:00:00Z
+http://www.wikidata.org/entity/Q60834962,Dune,action; sci-fi; илмӣ-тахаюллӣ,401847900.0,http://www.wikidata.org/entity/Q4917,155.0,2021-09-03T00:00:00Z
+http://www.wikidata.org/entity/Q11621,E.T. the Extra-Terrestrial,sci-fi; илмӣ-тахаюллӣ,792910554.0,http://www.wikidata.org/entity/Q4917,115.0,1982-05-26T00:00:00Z
+http://www.wikidata.org/entity/Q1003128,Eastern Condors,action,21606063.0,http://www.wikidata.org/entity/Q31015,100.0,1987-07-09T00:00:00Z
+http://www.wikidata.org/entity/Q1187607,Edge of Tomorrow,sci-fi; илмӣ-тахаюллӣ,370500000.0,http://www.wikidata.org/entity/Q4917,113.0,2014-05-29T00:00:00Z
+http://www.wikidata.org/entity/Q217182,Edward Scissorhands,илмӣ-тахаюллӣ; fantasy; Horror; горор; sci-fi,86024005.0,http://www.wikidata.org/entity/Q4917,105.0,1990-12-06T00:00:00Z
+http://www.wikidata.org/entity/Q949879,Elf,fantasy,225097437.0,http://www.wikidata.org/entity/Q4917,97.0,2003-11-07T00:00:00Z
+http://www.wikidata.org/entity/Q849656,End of Days,fantasy; action; Horror; горор,211989043.0,http://www.wikidata.org/entity/Q4917,117.0,1999-11-16T00:00:00Z
+http://www.wikidata.org/entity/Q177930,Enemy of the State,action,250600000.0,http://www.wikidata.org/entity/Q4917,132.0,1998-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q578873,Entrapment,action; heist,212404396.0,http://www.wikidata.org/entity/Q4917,108.0,1999-04-15T00:00:00Z
+http://www.wikidata.org/entity/Q507461,Equilibrium,action; sci-fi; илмӣ-тахаюллӣ,5368217.0,http://www.wikidata.org/entity/Q4917,107.0,2002-12-06T00:00:00Z
+http://www.wikidata.org/entity/Q239296,Eragon,fantasy; action,249500000.0,http://www.wikidata.org/entity/Q4917,105.0,2006-12-14T00:00:00Z
+http://www.wikidata.org/entity/Q11618,Eraserhead,fantasy,7097971.0,http://www.wikidata.org/entity/Q4917,89.0,1978-02-03T00:00:00Z
+http://www.wikidata.org/entity/Q496316,Escape from Alcatraz,action,43005351.0,http://www.wikidata.org/entity/Q4917,112.0,1979-06-22T00:00:00Z
+http://www.wikidata.org/entity/Q403033,Escape from New York,action; sci-fi; илмӣ-тахаюллӣ,25274965.0,http://www.wikidata.org/entity/Q4917,99.0,1981-07-10T00:00:00Z
+http://www.wikidata.org/entity/Q208269,Eternal Sunshine of the Spotless Mind,fantasy; sci-fi; илмӣ-тахаюллӣ,74036715.0,http://www.wikidata.org/entity/Q4917,104.0,2004-03-09T00:00:00Z
+http://www.wikidata.org/entity/Q23894629,Eternals,action; sci-fi; илмӣ-тахаюллӣ,402064899.0,http://www.wikidata.org/entity/Q4917,156.0,2021-11-03T00:00:00Z
+http://www.wikidata.org/entity/Q83808444,Everything Everywhere All at Once,илмӣ-тахаюллӣ; action; sci-fi,97737200.0,http://www.wikidata.org/entity/Q4917,139.0,2022-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q73279,Evil Dead,Horror; горор,97542952.0,http://www.wikidata.org/entity/Q4917,91.0,2013-04-05T00:00:00Z
+http://www.wikidata.org/entity/Q3061975,Exiled,action,1230135.0,http://www.wikidata.org/entity/Q4917,110.0,2006-10-19T00:00:00Z
+http://www.wikidata.org/entity/Q29466808,F9,action,726229501.0,http://www.wikidata.org/entity/Q4917,143.0,2021-06-24T00:00:00Z
+http://www.wikidata.org/entity/Q223887,Face/Off,action,245676146.0,http://www.wikidata.org/entity/Q4917,133.0,1997-06-27T00:00:00Z
+http://www.wikidata.org/entity/Q18199330,Fantastic Beasts and Where to Find Them,fantasy,814044001.0,http://www.wikidata.org/entity/Q4917,133.0,2016-11-16T00:00:00Z
+http://www.wikidata.org/entity/Q18199330,Fantastic Beasts and Where to Find Them,fantasy,814037575.0,http://www.wikidata.org/entity/Q4917,133.0,2016-11-16T00:00:00Z
+http://www.wikidata.org/entity/Q18199331,Fantastic Beasts: The Crimes of Grindelwald,fantasy,654855901.0,http://www.wikidata.org/entity/Q4917,134.0,2018-11-14T00:00:00Z
+http://www.wikidata.org/entity/Q18199332,Fantastic Beasts: The Secrets of Dumbledore,fantasy,405161334.0,http://www.wikidata.org/entity/Q4917,142.0,2022-04-07T00:00:00Z
+http://www.wikidata.org/entity/Q18199332,Fantastic Beasts: The Secrets of Dumbledore,fantasy,405161334.0,http://www.wikidata.org/entity/Q4917,143.0,2022-04-07T00:00:00Z
+http://www.wikidata.org/entity/Q224130,Fantastic Four,fantasy; action; sci-fi; илмӣ-тахаюллӣ,330600000.0,http://www.wikidata.org/entity/Q4917,102.0,2005-07-08T00:00:00Z
+http://www.wikidata.org/entity/Q390063,Fantastic Four: Rise of the Silver Surfer,fantasy; action; sci-fi; илмӣ-тахаюллӣ,289000000.0,http://www.wikidata.org/entity/Q4917,92.0,2007-08-08T00:00:00Z
+http://www.wikidata.org/entity/Q465275,Fantastic Mr. Fox,action,46474181.0,http://www.wikidata.org/entity/Q4917,87.0,2009-10-14T00:00:00Z
+http://www.wikidata.org/entity/Q222720,Fargo,чёрная комедия,60611975.0,http://www.wikidata.org/entity/Q4917,98.0,1996-03-08T00:00:00Z
+http://www.wikidata.org/entity/Q380996,Fast & Furious,action,363200000.0,http://www.wikidata.org/entity/Q4917,102.0,2009-03-12T00:00:00Z
+http://www.wikidata.org/entity/Q5516100,Fast & Furious 6,action; heist,788680968.0,http://www.wikidata.org/entity/Q4917,130.0,2013-05-22T00:00:00Z
+http://www.wikidata.org/entity/Q401976,Fast Five,action; heist,626137675.0,http://www.wikidata.org/entity/Q4917,131.0,2011-04-15T00:00:00Z
+http://www.wikidata.org/entity/Q1331230,Forbidden Planet,action; sci-fi; илмӣ-тахаюллӣ,2765000.0,http://www.wikidata.org/entity/Q4917,99.0,1956-03-23T00:00:00Z
+http://www.wikidata.org/entity/Q55081822,Ford v Ferrari,action,172535062.0,http://www.wikidata.org/entity/Q4917,152.0,2019-06-28T00:00:00Z
+http://www.wikidata.org/entity/Q118713,Freaky Friday,fantasy,160846332.0,http://www.wikidata.org/entity/Q4917,97.0,2003-08-06T00:00:00Z
+http://www.wikidata.org/entity/Q20649227,Free Fire,action,3719383.0,http://www.wikidata.org/entity/Q4917,91.0,2016-09-08T00:00:00Z
+http://www.wikidata.org/entity/Q106571,From Russia with Love,action,78900000.0,http://www.wikidata.org/entity/Q4917,115.0,1963-10-10T00:00:00Z
+http://www.wikidata.org/entity/Q132266,Fun with Dick and Jane,heist,202026112.0,http://www.wikidata.org/entity/Q4917,90.0,2006-01-05T00:00:00Z
+http://www.wikidata.org/entity/Q14650496,Furious 7,heist; action,1515047671.0,http://www.wikidata.org/entity/Q4917,137.0,2015-03-26T00:00:00Z
+http://www.wikidata.org/entity/Q14786561,Fury,action,211822697.0,http://www.wikidata.org/entity/Q4917,134.0,2014-10-15T00:00:00Z
+http://www.wikidata.org/entity/Q1146345,G.I. Joe: Retaliation,action; sci-fi; илмӣ-тахаюллӣ,375700000.0,http://www.wikidata.org/entity/Q4917,125.0,2013-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q18342910,Geostorm,action; sci-fi; илмӣ-тахаюллӣ,221600000.0,http://www.wikidata.org/entity/Q4917,109.0,2017-10-12T00:00:00Z
+http://www.wikidata.org/entity/Q25136235,Get Out,Horror; горор,255745157.0,http://www.wikidata.org/entity/Q4917,104.0,2017-01-24T00:00:00Z
+http://www.wikidata.org/entity/Q25136235,Get Out,горор; Horror,255407663.0,http://www.wikidata.org/entity/Q4917,104.0,2017-01-24T00:00:00Z
+http://www.wikidata.org/entity/Q570652,Get Smart,action,230700000.0,http://www.wikidata.org/entity/Q4917,110.0,2008-06-19T00:00:00Z
+http://www.wikidata.org/entity/Q41754,Ghost Rider,fantasy; action; Horror; горор,228738393.0,http://www.wikidata.org/entity/Q4917,110.0,2007-01-15T00:00:00Z
+http://www.wikidata.org/entity/Q41854,Ghost Rider: Spirit of Vengeance,fantasy; action; Horror; горор,132563930.0,http://www.wikidata.org/entity/Q4917,95.0,2012-02-17T00:00:00Z
+http://www.wikidata.org/entity/Q1356265,Ghost Ship,Horror; горор,68349884.0,http://www.wikidata.org/entity/Q4917,91.0,2002-10-22T00:00:00Z
+http://www.wikidata.org/entity/Q61883088,Ghostbusters: Afterlife,sci-fi; илмӣ-тахаюллӣ,197360575.0,http://www.wikidata.org/entity/Q4917,125.0,2021-11-11T00:00:00Z
+http://www.wikidata.org/entity/Q61883088,Ghostbusters: Afterlife,илмӣ-тахаюллӣ; sci-fi,197360575.0,http://www.wikidata.org/entity/Q4917,124.0,2021-11-11T00:00:00Z
+http://www.wikidata.org/entity/Q128518,Gladiator,action,460583960.0,http://www.wikidata.org/entity/Q4917,155.0,2000-05-05T00:00:00Z
+http://www.wikidata.org/entity/Q30939513,Glass,Horror; горор; sci-fi; илмӣ-тахаюллӣ,244100000.0,http://www.wikidata.org/entity/Q4917,128.0,2019-01-17T00:00:00Z
+http://www.wikidata.org/entity/Q56307503,Godzilla vs. Kong,action; sci-fi; илмӣ-тахаюллӣ,338600000.0,http://www.wikidata.org/entity/Q4917,153.0,2021-03-31T00:00:00Z
+http://www.wikidata.org/entity/Q56307503,Godzilla vs. Kong,action; sci-fi; илмӣ-тахаюллӣ,468216094.0,http://www.wikidata.org/entity/Q4917,153.0,2021-03-31T00:00:00Z
+http://www.wikidata.org/entity/Q19089,GoldenEye,action,352194034.0,http://www.wikidata.org/entity/Q4917,130.0,1995-11-17T00:00:00Z
+http://www.wikidata.org/entity/Q106440,Goldfinger,action,124900000.0,http://www.wikidata.org/entity/Q4917,109.0,1964-09-17T00:00:00Z
+http://www.wikidata.org/entity/Q502384,Gone in 60 Seconds,action; heist,237200000.0,http://www.wikidata.org/entity/Q4917,117.0,2000-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q2579784,Gravity,Horror; горор; sci-fi; илмӣ-тахаюллӣ,723192705.0,http://www.wikidata.org/entity/Q4917,91.0,2013-08-28T00:00:00Z
+http://www.wikidata.org/entity/Q903885,Green Lantern,fantasy; action; sci-fi; илмӣ-тахаюллӣ,219851172.0,http://www.wikidata.org/entity/Q4917,114.0,2011-06-14T00:00:00Z
+http://www.wikidata.org/entity/Q18392433,Green Room,Horror; горор,3807503.0,http://www.wikidata.org/entity/Q4917,94.0,2016-04-15T00:00:00Z
+http://www.wikidata.org/entity/Q488655,Groundhog Day,fantasy; sci-fi; илмӣ-тахаюллӣ,105000000.0,http://www.wikidata.org/entity/Q4917,101.0,1993-02-12T00:00:00Z
+http://www.wikidata.org/entity/Q5887360,Guardians of the Galaxy,sci-fi; илмӣ-тахаюллӣ,772776600.0,http://www.wikidata.org/entity/Q4917,121.0,2014-07-31T00:00:00Z
+http://www.wikidata.org/entity/Q20001199,Guardians of the Galaxy Vol. 2,sci-fi; илмӣ-тахаюллӣ,863756051.0,http://www.wikidata.org/entity/Q4917,136.0,2017-04-10T00:00:00Z
+http://www.wikidata.org/entity/Q29226331,Guardians of the Galaxy Vol. 3,action; sci-fi; илмӣ-тахаюллӣ,845555777.0,http://www.wikidata.org/entity/Q4917,150.0,2023-04-22T00:00:00Z
+http://www.wikidata.org/entity/Q1320997,Gulliver's Travels,илмӣ-тахаюллӣ; fantasy; sci-fi,237400000.0,http://www.wikidata.org/entity/Q4917,87.0,2010-12-25T00:00:00Z
+http://www.wikidata.org/entity/Q221103,Halloween,Horror; горор,70274000.0,http://www.wikidata.org/entity/Q4917,91.0,1978-10-25T00:00:00Z
+http://www.wikidata.org/entity/Q67279679,Halloween Kills,Horror; горор,131647155.0,http://www.wikidata.org/entity/Q4917,105.0,2021-10-15T00:00:00Z
+http://www.wikidata.org/entity/Q220376,Hancock,sci-fi; илмӣ-тахаюллӣ; fantasy; action,624386771.0,http://www.wikidata.org/entity/Q4917,92.0,2008-06-16T00:00:00Z
+http://www.wikidata.org/entity/Q722682,Hannibal,Horror; горор,351692268.0,http://www.wikidata.org/entity/Q4917,131.0,2001-02-09T00:00:00Z
+http://www.wikidata.org/entity/Q4204793,Hard to Be a God,sci-fi; илмӣ-тахаюллӣ,1299035.0,http://www.wikidata.org/entity/Q4917,177.0,2013-11-13T00:00:00Z
+http://www.wikidata.org/entity/Q20982361,Hardcore Henry,action; sci-fi; илмӣ-тахаюллӣ,16810562.0,http://www.wikidata.org/entity/Q4917,96.0,2015-09-12T00:00:00Z
+http://www.wikidata.org/entity/Q102244,Harry Potter and the Chamber of Secrets,fantasy,879793867.0,http://www.wikidata.org/entity/Q4917,161.0,2002-11-03T00:00:00Z
+http://www.wikidata.org/entity/Q161678,Harry Potter and the Deathly Hallows – Part 1,fantasy; action,976536918.0,http://www.wikidata.org/entity/Q4917,147.0,2010-11-11T00:00:00Z
+http://www.wikidata.org/entity/Q232009,Harry Potter and the Deathly Hallows – Part 2,fantasy,1341511219.0,http://www.wikidata.org/entity/Q4917,130.0,2011-07-13T00:00:00Z
+http://www.wikidata.org/entity/Q102225,Harry Potter and the Goblet of Fire,fantasy,895921036.0,http://www.wikidata.org/entity/Q4917,151.0,2005-11-06T00:00:00Z
+http://www.wikidata.org/entity/Q161687,Harry Potter and the Half-Blood Prince,fantasy,933959197.0,http://www.wikidata.org/entity/Q4917,147.0,2009-07-06T00:00:00Z
+http://www.wikidata.org/entity/Q102235,Harry Potter and the Order of the Phoenix,fantasy,941676843.0,http://www.wikidata.org/entity/Q4917,133.0,2007-06-28T00:00:00Z
+http://www.wikidata.org/entity/Q102438,Harry Potter and the Philosopher's Stone,fantasy,978087613.0,http://www.wikidata.org/entity/Q4917,152.0,2001-11-04T00:00:00Z
+http://www.wikidata.org/entity/Q42198,Heat,heist; action,187436818.0,http://www.wikidata.org/entity/Q4917,171.0,1995-12-15T00:00:00Z
+http://www.wikidata.org/entity/Q3180788,Hell and High Water,action,2700000.0,http://www.wikidata.org/entity/Q4917,103.0,1954-02-01T00:00:00Z
+http://www.wikidata.org/entity/Q461540,Hellboy,fantasy; Horror; горор,99378985.0,http://www.wikidata.org/entity/Q4917,132.0,2004-04-02T00:00:00Z
+http://www.wikidata.org/entity/Q651196,Hellboy II: The Golden Army,fantasy; action; Horror; горор,168319243.0,http://www.wikidata.org/entity/Q4917,120.0,2008-06-28T00:00:00Z
+http://www.wikidata.org/entity/Q14522493,Hercules,fantasy; action,244819862.0,http://www.wikidata.org/entity/Q4917,98.0,2014-07-23T00:00:00Z
+http://www.wikidata.org/entity/Q33129472,High Life,Horror; горор; sci-fi; илмӣ-тахаюллӣ,2769756.0,http://www.wikidata.org/entity/Q4917,110.0,2019-04-05T00:00:00Z
+http://www.wikidata.org/entity/Q1138382,High Sierra,heist,1489000.0,http://www.wikidata.org/entity/Q4917,100.0,1941-01-23T00:00:00Z
+http://www.wikidata.org/entity/Q56559254,Hobbs & Shaw,action,759056935.0,http://www.wikidata.org/entity/Q4917,137.0,2019-08-01T00:00:00Z
+http://www.wikidata.org/entity/Q27981586,Holmes & Watson,action,40466970.0,http://www.wikidata.org/entity/Q4917,90.0,2018-12-25T00:00:00Z
+http://www.wikidata.org/entity/Q729788,Hot Fuzz,action,80743363.0,http://www.wikidata.org/entity/Q4917,121.0,2007-02-14T00:00:00Z
+http://www.wikidata.org/entity/Q1630741,Hot Rod,action,14353654.0,http://www.wikidata.org/entity/Q4917,88.0,2007-08-03T00:00:00Z
+http://www.wikidata.org/entity/Q28840385,Hotel Transylvania 3: Summer Vacation,fantasy,528583774.0,http://www.wikidata.org/entity/Q4917,97.0,2018-06-13T00:00:00Z
+http://www.wikidata.org/entity/Q734604,House,Horror; горор,22144631.0,http://www.wikidata.org/entity/Q4917,91.0,1985-10-21T00:00:00Z
+http://www.wikidata.org/entity/Q212689,I Am Legend,action; Horror; горор,585349010.0,http://www.wikidata.org/entity/Q4917,100.0,2007-12-05T00:00:00Z
+http://www.wikidata.org/entity/Q485725,I Saw the Devil,action,12966357.0,http://www.wikidata.org/entity/Q4917,141.0,2010-08-12T00:00:00Z
+http://www.wikidata.org/entity/Q485677,"I'm a Cyborg, But That's OK",sci-fi; илмӣ-тахаюллӣ,4642401.0,http://www.wikidata.org/entity/Q4917,105.0,2006-12-07T00:00:00Z
+http://www.wikidata.org/entity/Q200572,"I, Robot",action; sci-fi; илмӣ-тахаюллӣ,353133898.0,http://www.wikidata.org/entity/Q4917,115.0,2004-06-20T00:00:00Z
+http://www.wikidata.org/entity/Q1347609,Idiocracy,sci-fi; илмӣ-тахаюллӣ,495303.0,http://www.wikidata.org/entity/Q4917,84.0,2006-09-01T00:00:00Z
+http://www.wikidata.org/entity/Q1050528,Immortals,fantasy; action,226904017.0,http://www.wikidata.org/entity/Q4917,110.0,2011-11-11T00:00:00Z
+http://www.wikidata.org/entity/Q244931,In Bruges,action,39628029.0,http://www.wikidata.org/entity/Q4917,108.0,2008-01-17T00:00:00Z
+http://www.wikidata.org/entity/Q15729024,In Order of Disappearance,action,904446.0,http://www.wikidata.org/entity/Q4917,117.0,2014-02-10T00:00:00Z
+http://www.wikidata.org/entity/Q25188,Inception,sci-fi; илмӣ-тахаюллӣ; heist,836848102.0,http://www.wikidata.org/entity/Q4917,148.0,2010-07-08T00:00:00Z
+http://www.wikidata.org/entity/Q25188,Inception,sci-fi; илмӣ-тахаюллӣ; heist,829895144.0,http://www.wikidata.org/entity/Q4917,148.0,2010-07-08T00:00:00Z
+http://www.wikidata.org/entity/Q105387,Independence Day,action; sci-fi; илмӣ-тахаюллӣ,817400891.0,http://www.wikidata.org/entity/Q4917,144.0,1996-09-19T00:00:00Z
+http://www.wikidata.org/entity/Q105387,Independence Day,action; sci-fi; илмӣ-тахаюллӣ,817400891.0,http://www.wikidata.org/entity/Q4917,138.0,1996-09-19T00:00:00Z
+http://www.wikidata.org/entity/Q105387,Independence Day,action; sci-fi; илмӣ-тахаюллӣ,817400891.0,http://www.wikidata.org/entity/Q4917,145.0,1996-09-19T00:00:00Z
+http://www.wikidata.org/entity/Q182373,Indiana Jones and the Kingdom of the Crystal Skull,action,790653942.0,http://www.wikidata.org/entity/Q4917,123.0,2008-05-21T00:00:00Z
+http://www.wikidata.org/entity/Q179215,Indiana Jones and the Temple of Doom,action,333100000.0,http://www.wikidata.org/entity/Q4917,114.0,1984-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q715374,Initial D,action,10793051.0,http://www.wikidata.org/entity/Q4917,108.0,2005-06-19T00:00:00Z
+http://www.wikidata.org/entity/Q506390,Innerspace,sci-fi; илмӣ-тахаюллӣ,42000000.0,http://www.wikidata.org/entity/Q4917,120.0,1987-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q13417189,Interstellar,sci-fi; илмӣ-тахаюллӣ,677471339.0,http://www.wikidata.org/entity/Q4917,169.0,2014-10-26T00:00:00Z
+http://www.wikidata.org/entity/Q13417189,Interstellar,sci-fi; илмӣ-тахаюллӣ,701729206.0,http://www.wikidata.org/entity/Q4917,169.0,2014-10-26T00:00:00Z
+http://www.wikidata.org/entity/Q318910,Interview with the Vampire,горор; fantasy; Horror,223700000.0,http://www.wikidata.org/entity/Q4917,123.0,1994-11-11T00:00:00Z
+http://www.wikidata.org/entity/Q573743,Ip Man,action,22108789.0,http://www.wikidata.org/entity/Q4917,106.0,2008-12-12T00:00:00Z
+http://www.wikidata.org/entity/Q192724,Iron Man,action; sci-fi; илмӣ-тахаюллӣ,585366247.0,http://www.wikidata.org/entity/Q4917,126.0,2008-04-30T00:00:00Z
+http://www.wikidata.org/entity/Q205028,Iron Man 2,sci-fi; илмӣ-тахаюллӣ; action,623933331.0,http://www.wikidata.org/entity/Q4917,125.0,2010-04-29T00:00:00Z
+http://www.wikidata.org/entity/Q209538,Iron Man 3,sci-fi; илмӣ-тахаюллӣ; action,1214811252.0,http://www.wikidata.org/entity/Q4917,130.0,2013-04-24T00:00:00Z
+http://www.wikidata.org/entity/Q25136484,It,fantasy; Horror; горор,701842551.0,http://www.wikidata.org/entity/Q4917,135.0,2017-09-07T00:00:00Z
+http://www.wikidata.org/entity/Q25136484,It,Horror; горор; fantasy,700481748.0,http://www.wikidata.org/entity/Q4917,135.0,2017-09-07T00:00:00Z
+http://www.wikidata.org/entity/Q204191,It's a Wonderful Life,fantasy,6184298.0,http://www.wikidata.org/entity/Q4917,125.0,1946-12-20T00:00:00Z
+http://www.wikidata.org/entity/Q204191,It's a Wonderful Life,fantasy,8224626.0,http://www.wikidata.org/entity/Q4917,125.0,1946-12-20T00:00:00Z
+http://www.wikidata.org/entity/Q42726338,It: Chapter Two,горор; Horror,473122525.0,http://www.wikidata.org/entity/Q4917,169.0,2019-09-05T00:00:00Z
+http://www.wikidata.org/entity/Q1138620,Jackass Number Two,action,84645164.0,http://www.wikidata.org/entity/Q4917,95.0,2006-09-22T00:00:00Z
+http://www.wikidata.org/entity/Q19481099,Jason Bourne,action,415484914.0,http://www.wikidata.org/entity/Q4917,123.0,2016-07-28T00:00:00Z
+http://www.wikidata.org/entity/Q15732802,John Wick,action,86081711.0,http://www.wikidata.org/entity/Q4917,101.0,2014-10-24T00:00:00Z
+http://www.wikidata.org/entity/Q21451640,John Wick: Chapter 2,action,171547802.0,http://www.wikidata.org/entity/Q4917,123.0,2017-02-10T00:00:00Z
+http://www.wikidata.org/entity/Q52951815,John Wick: Chapter 3 – Parabellum,action,327281779.0,http://www.wikidata.org/entity/Q4917,131.0,2019-05-15T00:00:00Z
+http://www.wikidata.org/entity/Q80322358,John Wick: Chapter 4,action,137817950.0,http://www.wikidata.org/entity/Q4917,169.0,2023-03-22T00:00:00Z
+http://www.wikidata.org/entity/Q596085,Jonah Hex,fantasy; action; Horror; горор,10903312.0,http://www.wikidata.org/entity/Q4917,82.0,2010-06-17T00:00:00Z
+http://www.wikidata.org/entity/Q211545,Journey 2: The Mysterious Island,fantasy; action; sci-fi; илмӣ-тахаюллӣ,335300000.0,http://www.wikidata.org/entity/Q4917,94.0,2012-01-19T00:00:00Z
+http://www.wikidata.org/entity/Q250770,Journey to the Center of the Earth,fantasy; action; sci-fi; илмӣ-тахаюллӣ,242000000.0,http://www.wikidata.org/entity/Q4917,92.0,2008-07-10T00:00:00Z
+http://www.wikidata.org/entity/Q21450514,Journey to the West: The Demons Strike Back,fantasy,246600000.0,http://www.wikidata.org/entity/Q4917,109.0,2017-01-28T00:00:00Z
+http://www.wikidata.org/entity/Q645597,Judge Dredd,sci-fi; илмӣ-тахаюллӣ; action,113493481.0,http://www.wikidata.org/entity/Q4917,92.0,1995-06-30T00:00:00Z
+http://www.wikidata.org/entity/Q222939,Jumanji,fantasy; action,262800000.0,http://www.wikidata.org/entity/Q4917,101.0,1995-12-15T00:00:00Z
+http://www.wikidata.org/entity/Q20762680,Jumanji: Welcome to the Jungle,fantasy; action,962102237.0,http://www.wikidata.org/entity/Q4917,119.0,2017-12-20T00:00:00Z
+http://www.wikidata.org/entity/Q541079,Jumper,sci-fi; илмӣ-тахаюллӣ; action,222200000.0,http://www.wikidata.org/entity/Q4917,89.0,2008-02-06T00:00:00Z
+http://www.wikidata.org/entity/Q1167592,Jungle Book,fantasy; action,11000000.0,http://www.wikidata.org/entity/Q4917,108.0,1942-04-03T00:00:00Z
+http://www.wikidata.org/entity/Q167726,Jurassic Park,action; sci-fi; илмӣ-тахаюллӣ,1030314141.0,http://www.wikidata.org/entity/Q4917,127.0,1993-06-11T00:00:00Z
+http://www.wikidata.org/entity/Q1102220,Jurassic Park III,action; sci-fi; илмӣ-тахаюллӣ,368780809.0,http://www.wikidata.org/entity/Q4917,92.0,2001-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q3512046,Jurassic World,action; sci-fi; илмӣ-тахаюллӣ,1670400637.0,http://www.wikidata.org/entity/Q4917,124.0,2015-05-29T00:00:00Z
+http://www.wikidata.org/entity/Q55178974,Jurassic World Dominion,action; sci-fi; илмӣ-тахаюллӣ,1001978080.0,http://www.wikidata.org/entity/Q4917,146.0,2022-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q55178974,Jurassic World Dominion,илмӣ-тахаюллӣ; action; sci-fi,961578465.0,http://www.wikidata.org/entity/Q4917,146.0,2022-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q21877685,Jurassic World: Fallen Kingdom,action; sci-fi; илмӣ-тахаюллӣ,1309500000.0,http://www.wikidata.org/entity/Q4917,128.0,2018-06-06T00:00:00Z
+http://www.wikidata.org/entity/Q21877685,Jurassic World: Fallen Kingdom,action; sci-fi; илмӣ-тахаюллӣ,1310466296.0,http://www.wikidata.org/entity/Q4917,128.0,2018-06-06T00:00:00Z
+http://www.wikidata.org/entity/Q20501835,Justice League,action; sci-fi; илмӣ-тахаюллӣ; fantasy,657926987.0,http://www.wikidata.org/entity/Q4917,120.0,2017-11-15T00:00:00Z
+http://www.wikidata.org/entity/Q928019,Kill Bill Volume 2,action,154118820.0,http://www.wikidata.org/entity/Q4917,131.0,2004-04-16T00:00:00Z
+http://www.wikidata.org/entity/Q257630,Kindergarten Cop,action,201957688.0,http://www.wikidata.org/entity/Q4917,107.0,1990-12-22T00:00:00Z
+http://www.wikidata.org/entity/Q160215,King Kong,action,550517357.0,http://www.wikidata.org/entity/Q4917,187.0,2005-12-14T00:00:00Z
+http://www.wikidata.org/entity/Q679918,Knight and Day,action,261900000.0,http://www.wikidata.org/entity/Q4917,109.0,2010-07-15T00:00:00Z
+http://www.wikidata.org/entity/Q19961444,Kung Fu Yoga,action,254212245.0,http://www.wikidata.org/entity/Q4917,140.0,2017-01-26T00:00:00Z
+http://www.wikidata.org/entity/Q1500141,Land of the Dead,горор; sci-fi; илмӣ-тахаюллӣ; action; Horror,47074133.0,http://www.wikidata.org/entity/Q4917,93.0,2005-06-18T00:00:00Z
+http://www.wikidata.org/entity/Q464014,Lara Croft: Tomb Raider,fantasy; action; sci-fi; илмӣ-тахаюллӣ,274703340.0,http://www.wikidata.org/entity/Q4917,100.0,2001-06-11T00:00:00Z
+http://www.wikidata.org/entity/Q751767,Lethal Weapon 2,action,227853986.0,http://www.wikidata.org/entity/Q4917,114.0,1989-07-07T00:00:00Z
+http://www.wikidata.org/entity/Q751769,Lethal Weapon 3,action,321731527.0,http://www.wikidata.org/entity/Q4917,118.0,1992-05-15T00:00:00Z
+http://www.wikidata.org/entity/Q429397,Lethal Weapon 4,action,285444603.0,http://www.wikidata.org/entity/Q4917,127.0,1998-07-10T00:00:00Z
+http://www.wikidata.org/entity/Q309086,Licence to Kill,action,156167015.0,http://www.wikidata.org/entity/Q4917,133.0,1989-07-07T00:00:00Z
+http://www.wikidata.org/entity/Q26465665,Life,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,100541806.0,http://www.wikidata.org/entity/Q4917,104.0,2017-03-23T00:00:00Z
+http://www.wikidata.org/entity/Q152780,Life of Pi,fantasy,609016565.0,http://www.wikidata.org/entity/Q4917,127.0,2012-12-20T00:00:00Z
+http://www.wikidata.org/entity/Q1199259,Little Shop of Horrors,Horror; горор; sci-fi; илмӣ-тахаюллӣ,39032786.0,http://www.wikidata.org/entity/Q4917,94.0,1986-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q50861,Live Free or Die Hard,action,388156011.0,http://www.wikidata.org/entity/Q4917,128.0,2007-06-27T00:00:00Z
+http://www.wikidata.org/entity/Q27204,Live and Let Die,action,161800000.0,http://www.wikidata.org/entity/Q4917,121.0,1973-06-27T00:00:00Z
+http://www.wikidata.org/entity/Q19347048,"Liza, the Fox-Fairy",fantasy,540928.0,http://www.wikidata.org/entity/Q4917,98.0,2015-02-19T00:00:00Z
+http://www.wikidata.org/entity/Q24053263,Logan,action; sci-fi; илмӣ-тахаюллӣ,619021436.0,http://www.wikidata.org/entity/Q4917,137.0,2017-02-17T00:00:00Z
+http://www.wikidata.org/entity/Q53719,Looper,action; sci-fi; илмӣ-тахаюллӣ,176506819.0,http://www.wikidata.org/entity/Q4917,119.0,2012-09-06T00:00:00Z
+http://www.wikidata.org/entity/Q308681,Lord of War,action,72617068.0,http://www.wikidata.org/entity/Q4917,117.0,2005-09-16T00:00:00Z
+http://www.wikidata.org/entity/Q289204,Lost Highway,Horror; горор,3755139.0,http://www.wikidata.org/entity/Q4917,135.0,1997-01-15T00:00:00Z
+http://www.wikidata.org/entity/Q15624215,Lucy,action; sci-fi; илмӣ-тахаюллӣ,463400000.0,http://www.wikidata.org/entity/Q4917,89.0,2014-07-25T00:00:00Z
+http://www.wikidata.org/entity/Q484675,Léon: The Professional,action,45284974.0,http://www.wikidata.org/entity/Q4917,110.0,1994-09-14T00:00:00Z
+http://www.wikidata.org/entity/Q54437950,Maleficent: Mistress of Evil,fantasy; action,293512000.0,http://www.wikidata.org/entity/Q4917,119.0,2019-10-16T00:00:00Z
+http://www.wikidata.org/entity/Q39073809,Marrowbone,горор; Horror,12294931.0,http://www.wikidata.org/entity/Q4917,110.0,2017-09-11T00:00:00Z
+http://www.wikidata.org/entity/Q1125384,Master and Commander: The Far Side of the World,action,212011111.0,http://www.wikidata.org/entity/Q4917,133.0,2003-11-14T00:00:00Z
+http://www.wikidata.org/entity/Q1125384,Master and Commander: The Far Side of the World,action,211622535.0,http://www.wikidata.org/entity/Q4917,133.0,2003-11-14T00:00:00Z
+http://www.wikidata.org/entity/Q23068002,Maze Runner: The Death Cure,fantasy; action,288175335.0,http://www.wikidata.org/entity/Q4917,143.0,2018-01-12T00:00:00Z
+http://www.wikidata.org/entity/Q18359358,Maze Runner: The Scorch Trials,fantasy; action,312296056.0,http://www.wikidata.org/entity/Q4917,131.0,2015-09-15T00:00:00Z
+http://www.wikidata.org/entity/Q51416,Men in Black,action; sci-fi; илмӣ-тахаюллӣ,589390539.0,http://www.wikidata.org/entity/Q4917,94.0,1997-07-02T00:00:00Z
+http://www.wikidata.org/entity/Q327713,Men in Black 3,action; sci-fi; илмӣ-тахаюллӣ,624026776.0,http://www.wikidata.org/entity/Q4917,106.0,2012-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q156597,Men in Black II,action; sci-fi; илмӣ-тахаюллӣ,445135288.0,http://www.wikidata.org/entity/Q4917,84.0,2002-07-03T00:00:00Z
+http://www.wikidata.org/entity/Q156597,Men in Black II,action; sci-fi; илмӣ-тахаюллӣ,441818803.0,http://www.wikidata.org/entity/Q4917,84.0,2002-07-03T00:00:00Z
+http://www.wikidata.org/entity/Q55439830,Men in Black: International,action; sci-fi; илмӣ-тахаюллӣ,219030511.0,http://www.wikidata.org/entity/Q4917,114.0,2019-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q55439830,Men in Black: International,action; sci-fi; илмӣ-тахаюллӣ,253890701.0,http://www.wikidata.org/entity/Q4917,114.0,2019-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q13619743,Minions,heist,1159398397.0,http://www.wikidata.org/entity/Q4917,91.0,2015-07-02T00:00:00Z
+http://www.wikidata.org/entity/Q60997779,Minions: The Rise of Gru,action,760095375.0,http://www.wikidata.org/entity/Q4917,87.0,2022-06-30T00:00:00Z
+http://www.wikidata.org/entity/Q60997779,Minions: The Rise of Gru,action,760095375.0,http://www.wikidata.org/entity/Q4917,90.0,2022-06-30T00:00:00Z
+http://www.wikidata.org/entity/Q244604,Minority Report,action; sci-fi; илмӣ-тахаюллӣ,358372926.0,http://www.wikidata.org/entity/Q4917,145.0,2002-06-17T00:00:00Z
+http://www.wikidata.org/entity/Q512576,MirrorMask,fantasy,973613.0,http://www.wikidata.org/entity/Q4917,101.0,2005-09-30T00:00:00Z
+http://www.wikidata.org/entity/Q1741232,Mission: Impossible,action; heist,457696391.0,http://www.wikidata.org/entity/Q4917,105.0,1996-05-22T00:00:00Z
+http://www.wikidata.org/entity/Q505790,Mission: Impossible 2,action,546388108.0,http://www.wikidata.org/entity/Q4917,124.0,2000-05-24T00:00:00Z
+http://www.wikidata.org/entity/Q505790,Mission: Impossible 2,action,546388105.0,http://www.wikidata.org/entity/Q4917,124.0,2000-05-24T00:00:00Z
+http://www.wikidata.org/entity/Q288173,Mission: Impossible III,action,398479497.0,http://www.wikidata.org/entity/Q4917,126.0,2006-04-24T00:00:00Z
+http://www.wikidata.org/entity/Q29261993,Mission: Impossible – Fallout,action,791657398.0,http://www.wikidata.org/entity/Q4917,147.0,2018-07-12T00:00:00Z
+http://www.wikidata.org/entity/Q628154,Mission: Impossible – Ghost Protocol,action,694713380.0,http://www.wikidata.org/entity/Q4917,132.0,2011-12-14T00:00:00Z
+http://www.wikidata.org/entity/Q17548046,Mission: Impossible – Rogue Nation,action,682716636.0,http://www.wikidata.org/entity/Q4917,131.0,2015-07-23T00:00:00Z
+http://www.wikidata.org/entity/Q17548046,Mission: Impossible – Rogue Nation,action,682714267.0,http://www.wikidata.org/entity/Q4917,131.0,2015-07-23T00:00:00Z
+http://www.wikidata.org/entity/Q18391038,Monster Hunt,fantasy,385300000.0,http://www.wikidata.org/entity/Q4917,118.0,2015-07-16T00:00:00Z
+http://www.wikidata.org/entity/Q56906869,Monster Hunter,action; fantasy,42145959.0,http://www.wikidata.org/entity/Q4917,103.0,2020-12-18T00:00:00Z
+http://www.wikidata.org/entity/Q26751,Moon,sci-fi; илмӣ-тахаюллӣ,9760104.0,http://www.wikidata.org/entity/Q4917,96.0,2009-01-23T00:00:00Z
+http://www.wikidata.org/entity/Q334780,Moonraker,action,210308099.0,http://www.wikidata.org/entity/Q4917,126.0,1979-06-26T00:00:00Z
+http://www.wikidata.org/entity/Q819196,Mortal Kombat,fantasy; action,122195920.0,http://www.wikidata.org/entity/Q4917,101.0,1995-08-18T00:00:00Z
+http://www.wikidata.org/entity/Q537407,Mulan,fantasy,304300000.0,http://www.wikidata.org/entity/Q4917,88.0,1998-06-05T00:00:00Z
+http://www.wikidata.org/entity/Q13374569,Need for Speed,action,203300000.0,http://www.wikidata.org/entity/Q4917,130.0,2014-03-12T00:00:00Z
+http://www.wikidata.org/entity/Q180279,Never Say Never Again,action,160000000.0,http://www.wikidata.org/entity/Q4917,128.0,1983-10-07T00:00:00Z
+http://www.wikidata.org/entity/Q387601,Night at the Museum,fantasy,574481229.0,http://www.wikidata.org/entity/Q4917,105.0,2006-12-17T00:00:00Z
+http://www.wikidata.org/entity/Q387601,Night at the Museum,fantasy,574480841.0,http://www.wikidata.org/entity/Q4917,105.0,2006-12-17T00:00:00Z
+http://www.wikidata.org/entity/Q476726,Night at the Museum: Battle of the Smithsonian,fantasy; action,413106170.0,http://www.wikidata.org/entity/Q4917,105.0,2009-05-14T00:00:00Z
+http://www.wikidata.org/entity/Q15916752,Night at the Museum: Secret of the Tomb,fantasy; action,363204635.0,http://www.wikidata.org/entity/Q4917,98.0,2014-12-18T00:00:00Z
+http://www.wikidata.org/entity/Q623051,Night of the Living Dead,Horror; горор; sci-fi; илмӣ-тахаюллӣ,30087064.0,http://www.wikidata.org/entity/Q4917,96.0,1968-10-01T00:00:00Z
+http://www.wikidata.org/entity/Q286868,Noah,fantasy,362637473.0,http://www.wikidata.org/entity/Q4917,138.0,2014-03-10T00:00:00Z
+http://www.wikidata.org/entity/Q83965418,Nobody,action,56700000.0,http://www.wikidata.org/entity/Q4917,92.0,2021-03-26T00:00:00Z
+http://www.wikidata.org/entity/Q2855777,Non-Stop,action,222800000.0,http://www.wikidata.org/entity/Q4917,106.0,2014-01-27T00:00:00Z
+http://www.wikidata.org/entity/Q107176162,Nope,Horror; горор; sci-fi; илмӣ-тахаюллӣ,136198141.0,http://www.wikidata.org/entity/Q4917,130.0,2022-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q223139,North by Northwest,горор; Horror,9840000.0,http://www.wikidata.org/entity/Q4917,136.0,1959-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q499851,Now You See Me,heist,351723989.0,http://www.wikidata.org/entity/Q4917,116.0,2013-05-21T00:00:00Z
+http://www.wikidata.org/entity/Q1194211,"Objective, Burma!",action,3961000.0,http://www.wikidata.org/entity/Q4917,142.0,1945-01-26T00:00:00Z
+http://www.wikidata.org/entity/Q638544,Oblivion,sci-fi; илмӣ-тахаюллӣ; action,286168572.0,http://www.wikidata.org/entity/Q4917,125.0,2013-03-26T00:00:00Z
+http://www.wikidata.org/entity/Q25627545,Ocean's 8,action; heist,297718711.0,http://www.wikidata.org/entity/Q4917,110.0,2018-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q204398,Octopussy,action,187500000.0,http://www.wikidata.org/entity/Q4917,131.0,1983-06-06T00:00:00Z
+http://www.wikidata.org/entity/Q475693,Oldboy,action,15194593.0,http://www.wikidata.org/entity/Q4917,116.0,2003-11-21T00:00:00Z
+http://www.wikidata.org/entity/Q107894,On Her Majesty's Secret Service,action,82000000.0,http://www.wikidata.org/entity/Q4917,142.0,1969-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q168154,Once Upon a Time in the West,action,5434825.0,http://www.wikidata.org/entity/Q4917,165.0,1969-08-14T00:00:00Z
+http://www.wikidata.org/entity/Q30590974,Operation Red Sea,action,579220560.0,http://www.wikidata.org/entity/Q4917,138.0,2018-02-16T00:00:00Z
+http://www.wikidata.org/entity/Q387414,Orphan,горор; Horror,77912251.0,http://www.wikidata.org/entity/Q4917,123.0,2009-07-24T00:00:00Z
+http://www.wikidata.org/entity/Q101229556,Orphan: First Kill,Horror; горор,37083743.0,http://www.wikidata.org/entity/Q4917,98.0,2022-07-27T00:00:00Z
+http://www.wikidata.org/entity/Q101229556,Orphan: First Kill,Horror; горор,37083743.0,http://www.wikidata.org/entity/Q4917,99.0,2022-07-27T00:00:00Z
+http://www.wikidata.org/entity/Q27826501,Pacific Rim: Uprising,action; sci-fi; илмӣ-тахаюллӣ,290930148.0,http://www.wikidata.org/entity/Q4917,111.0,2018-03-21T00:00:00Z
+http://www.wikidata.org/entity/Q216006,Pan's Labyrinth,Horror; горор; fantasy,83862032.0,http://www.wikidata.org/entity/Q4917,119.0,2006-05-27T00:00:00Z
+http://www.wikidata.org/entity/Q1056921,Paranormal Activity 3,Horror; горор,207000000.0,http://www.wikidata.org/entity/Q4917,84.0,2011-10-21T00:00:00Z
+http://www.wikidata.org/entity/Q27964337,Peter Rabbit,fantasy,351300000.0,http://www.wikidata.org/entity/Q4917,90.0,2018-02-23T00:00:00Z
+http://www.wikidata.org/entity/Q4297094,Phantom,action,1197759.0,http://www.wikidata.org/entity/Q4917,98.0,2013-03-01T00:00:00Z
+http://www.wikidata.org/entity/Q54274,Pirates of the Caribbean: At World's End,fantasy; action,960996492.0,http://www.wikidata.org/entity/Q4917,162.0,2007-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q161087,Pirates of the Caribbean: Dead Man's Chest,fantasy; action,1066179725.0,http://www.wikidata.org/entity/Q4917,145.0,2006-07-07T00:00:00Z
+http://www.wikidata.org/entity/Q10350033,Pirates of the Caribbean: Dead Men Tell No Tales,fantasy,794881442.0,http://www.wikidata.org/entity/Q4917,129.0,2017-05-24T00:00:00Z
+http://www.wikidata.org/entity/Q183555,Pirates of the Caribbean: On Stranger Tides,fantasy; action,1045713802.0,http://www.wikidata.org/entity/Q4917,136.0,2011-05-18T00:00:00Z
+http://www.wikidata.org/entity/Q46717,Pirates of the Caribbean: The Curse of the Black Pearl,fantasy; action,654264015.0,http://www.wikidata.org/entity/Q4917,137.0,2003-07-09T00:00:00Z
+http://www.wikidata.org/entity/Q17182905,Pixels,sci-fi; илмӣ-тахаюллӣ,244900000.0,http://www.wikidata.org/entity/Q4917,105.0,2015-07-25T00:00:00Z
+http://www.wikidata.org/entity/Q108131599,Plane,action,41856323.0,http://www.wikidata.org/entity/Q4917,107.0,2023-01-13T00:00:00Z
+http://www.wikidata.org/entity/Q190643,Platoon,action,138545632.0,http://www.wikidata.org/entity/Q4917,115.0,1986-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q200804,Predator,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,98268458.0,http://www.wikidata.org/entity/Q4917,107.0,1987-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q163038,Psycho,Horror; горор,50000000.0,http://www.wikidata.org/entity/Q4917,109.0,1960-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q329448,Public Enemies,action,214104620.0,http://www.wikidata.org/entity/Q4917,140.0,2009-07-16T00:00:00Z
+http://www.wikidata.org/entity/Q181540,Quantum of Solace,action,586090727.0,http://www.wikidata.org/entity/Q4917,106.0,2008-10-29T00:00:00Z
+http://www.wikidata.org/entity/Q181540,Quantum of Solace,action,589580482.0,http://www.wikidata.org/entity/Q4917,106.0,2008-10-29T00:00:00Z
+http://www.wikidata.org/entity/Q174284,Raiders of the Lost Ark,action,389900000.0,http://www.wikidata.org/entity/Q4917,115.0,1981-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q670439,Raising Arizona,action,29180280.0,http://www.wikidata.org/entity/Q4917,94.0,1987-03-06T00:00:00Z
+http://www.wikidata.org/entity/Q319783,Rambo: First Blood Part II,action,300400000.0,http://www.wikidata.org/entity/Q4917,96.0,1985-05-22T00:00:00Z
+http://www.wikidata.org/entity/Q29470162,Rampage,action; sci-fi; илмӣ-тахаюллӣ,428028233.0,http://www.wikidata.org/entity/Q4917,107.0,2018-04-11T00:00:00Z
+http://www.wikidata.org/entity/Q752362,Ransom,action,309492681.0,http://www.wikidata.org/entity/Q4917,116.0,1996-11-01T00:00:00Z
+http://www.wikidata.org/entity/Q58815115,Ready or Not,Horror; горор; чёрная комедия,57615777.0,http://www.wikidata.org/entity/Q4917,95.0,2019-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q261759,Real Steel,action; sci-fi; илмӣ-тахаюллӣ,299268508.0,http://www.wikidata.org/entity/Q4917,126.0,2011-09-06T00:00:00Z
+http://www.wikidata.org/entity/Q1460779,Repo Men,action; sci-fi; илмӣ-тахаюллӣ,18409891.0,http://www.wikidata.org/entity/Q4917,111.0,2010-03-19T00:00:00Z
+http://www.wikidata.org/entity/Q72962,Reservoir Dogs,heist,2913644.0,http://www.wikidata.org/entity/Q4917,95.0,1992-09-10T00:00:00Z
+http://www.wikidata.org/entity/Q324557,Resident Evil: Afterlife,sci-fi; илмӣ-тахаюллӣ; action; Horror; горор,300200000.0,http://www.wikidata.org/entity/Q4917,96.0,2010-09-10T00:00:00Z
+http://www.wikidata.org/entity/Q372514,RoboCop,action; sci-fi; илмӣ-тахаюллӣ,53425389.0,http://www.wikidata.org/entity/Q4917,102.0,1987-07-17T00:00:00Z
+http://www.wikidata.org/entity/Q387638,Rocky IV,action,300473716.0,http://www.wikidata.org/entity/Q4917,91.0,1985-11-27T00:00:00Z
+http://www.wikidata.org/entity/Q19590955,Rogue One,fantasy; action; sci-fi; илмӣ-тахаюллӣ,1056057273.0,http://www.wikidata.org/entity/Q4917,133.0,2016-12-10T00:00:00Z
+http://www.wikidata.org/entity/Q383844,Rollerball,action; sci-fi; илмӣ-тахаюллӣ,25852764.0,http://www.wikidata.org/entity/Q4917,98.0,2002-02-08T00:00:00Z
+http://www.wikidata.org/entity/Q255342,Rush Hour,action,244400000.0,http://www.wikidata.org/entity/Q4917,98.0,1998-09-18T00:00:00Z
+http://www.wikidata.org/entity/Q255342,Rush Hour,action,245253686.0,http://www.wikidata.org/entity/Q4917,98.0,1998-09-18T00:00:00Z
+http://www.wikidata.org/entity/Q830208,Rush Hour 2,action,347325802.0,http://www.wikidata.org/entity/Q4917,92.0,2001-07-26T00:00:00Z
+http://www.wikidata.org/entity/Q498109,Rush Hour 3,action,258097122.0,http://www.wikidata.org/entity/Q4917,91.0,2007-07-30T00:00:00Z
+http://www.wikidata.org/entity/Q678775,S.W.A.T.,action,207700000.0,http://www.wikidata.org/entity/Q4917,112.0,2003-12-04T00:00:00Z
+http://www.wikidata.org/entity/Q15973073,San Andreas,action,474009154.0,http://www.wikidata.org/entity/Q4917,114.0,2015-05-28T00:00:00Z
+http://www.wikidata.org/entity/Q15973073,San Andreas,action,473990832.0,http://www.wikidata.org/entity/Q4917,114.0,2015-05-28T00:00:00Z
+http://www.wikidata.org/entity/Q165817,Saving Private Ryan,action,482349603.0,http://www.wikidata.org/entity/Q4917,169.0,1998-07-24T00:00:00Z
+http://www.wikidata.org/entity/Q47075,Scarface,action,65884703.0,http://www.wikidata.org/entity/Q4917,170.0,1983-12-09T00:00:00Z
+http://www.wikidata.org/entity/Q635937,Scary Movie 3,sci-fi; илмӣ-тахаюллӣ,220700000.0,http://www.wikidata.org/entity/Q4917,84.0,2003-10-20T00:00:00Z
+http://www.wikidata.org/entity/Q936302,Scooby-Doo,fantasy,275650703.0,http://www.wikidata.org/entity/Q4917,83.0,2002-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q753899,Scott Pilgrim vs. the World,fantasy; action,49421974.0,http://www.wikidata.org/entity/Q4917,112.0,2010-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q691611,Serenity,action; sci-fi; илмӣ-тахаюллӣ,40445129.0,http://www.wikidata.org/entity/Q4917,119.0,2005-08-22T00:00:00Z
+http://www.wikidata.org/entity/Q657079,Serpico,action,29857432.0,http://www.wikidata.org/entity/Q4917,130.0,1973-12-05T00:00:00Z
+http://www.wikidata.org/entity/Q23685878,Shazam!,action; fantasy,366080049.0,http://www.wikidata.org/entity/Q4917,132.0,2019-04-04T00:00:00Z
+http://www.wikidata.org/entity/Q84712809,Shazam! Fury of the Gods,action,133438006.0,http://www.wikidata.org/entity/Q4917,120.0,2023-03-16T00:00:00Z
+http://www.wikidata.org/entity/Q200396,Sherlock Holmes,action,524028679.0,http://www.wikidata.org/entity/Q4917,128.0,2009-12-24T00:00:00Z
+http://www.wikidata.org/entity/Q243643,Sherlock Holmes: A Game of Shadows,action,543848418.0,http://www.wikidata.org/entity/Q4917,129.0,2011-12-16T00:00:00Z
+http://www.wikidata.org/entity/Q210364,Shutter Island,Horror; горор,294800000.0,http://www.wikidata.org/entity/Q4917,138.0,2010-02-13T00:00:00Z
+http://www.wikidata.org/entity/Q114000704,Sick of Myself,чёрная комедия,1052734.0,http://www.wikidata.org/entity/Q4917,97.0,2022-09-09T00:00:00Z
+http://www.wikidata.org/entity/Q192115,Sin City,action,158733820.0,http://www.wikidata.org/entity/Q4917,124.0,2005-04-01T00:00:00Z
+http://www.wikidata.org/entity/Q115818765,Skinamarink,Horror; горор,2116254.0,http://www.wikidata.org/entity/Q4917,100.0,2022-07-25T00:00:00Z
+http://www.wikidata.org/entity/Q4941,Skyfall,action,1108561013.0,http://www.wikidata.org/entity/Q4917,143.0,2012-10-23T00:00:00Z
+http://www.wikidata.org/entity/Q37447062,Skyscraper,action,304868961.0,http://www.wikidata.org/entity/Q4917,102.0,2018-07-11T00:00:00Z
+http://www.wikidata.org/entity/Q822660,Snakes on a Plane,action,62022014.0,http://www.wikidata.org/entity/Q4917,105.0,2006-08-18T00:00:00Z
+http://www.wikidata.org/entity/Q673195,Solaris,sci-fi; илмӣ-тахаюллӣ,30002758.0,http://www.wikidata.org/entity/Q4917,99.0,2002-11-19T00:00:00Z
+http://www.wikidata.org/entity/Q27038847,Solo: A Star Wars Story,fantasy; action; sci-fi; илмӣ-тахаюллӣ,392924807.0,http://www.wikidata.org/entity/Q4917,135.0,2018-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q105970894,Sonic the Hedgehog 2,action,401872904.0,http://www.wikidata.org/entity/Q4917,123.0,2022-03-30T00:00:00Z
+http://www.wikidata.org/entity/Q105970894,Sonic the Hedgehog 2,action,401872904.0,http://www.wikidata.org/entity/Q4917,122.0,2022-03-30T00:00:00Z
+http://www.wikidata.org/entity/Q541707,Sorcerer,action,12006232.0,http://www.wikidata.org/entity/Q4917,121.0,1977-06-24T00:00:00Z
+http://www.wikidata.org/entity/Q64744044,Soul,fantasy,120957731.0,http://www.wikidata.org/entity/Q4917,101.0,2020-10-11T00:00:00Z
+http://www.wikidata.org/entity/Q207659,Space Jam,fantasy,230400000.0,http://www.wikidata.org/entity/Q4917,88.0,1996-11-15T00:00:00Z
+http://www.wikidata.org/entity/Q56850065,Space Jam: A New Legacy,fantasy; sci-fi; илмӣ-тахаюллӣ,163732928.0,http://www.wikidata.org/entity/Q4917,115.0,2021-07-14T00:00:00Z
+http://www.wikidata.org/entity/Q1474393,Spawn,action; Horror; горор; fantasy,87840042.0,http://www.wikidata.org/entity/Q4917,92.0,1997-08-01T00:00:00Z
+http://www.wikidata.org/entity/Q18602670,Spectre,action,880674609.0,http://www.wikidata.org/entity/Q4917,148.0,2015-10-26T00:00:00Z
+http://www.wikidata.org/entity/Q108006,Speed,action,350448145.0,http://www.wikidata.org/entity/Q4917,116.0,1994-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q744500,Sphere,sci-fi; илмӣ-тахаюллӣ,73400000.0,http://www.wikidata.org/entity/Q4917,129.0,1998-02-13T00:00:00Z
+http://www.wikidata.org/entity/Q484442,Spider-Man,sci-fi; илмӣ-тахаюллӣ,825025036.0,http://www.wikidata.org/entity/Q4917,121.0,2002-05-03T00:00:00Z
+http://www.wikidata.org/entity/Q190145,Spider-Man 2,илмӣ-тахаюллӣ; action; sci-fi,788976453.0,http://www.wikidata.org/entity/Q4917,122.0,2004-06-30T00:00:00Z
+http://www.wikidata.org/entity/Q182212,Spider-Man 3,action; sci-fi; илмӣ-тахаюллӣ,890871626.0,http://www.wikidata.org/entity/Q4917,137.0,2007-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q182212,Spider-Man 3,action; sci-fi; илмӣ-тахаюллӣ,890871626.0,http://www.wikidata.org/entity/Q4917,139.0,2007-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q27985819,Spider-Man: Far from Home,sci-fi; илмӣ-тахаюллӣ; action,1131927996.0,http://www.wikidata.org/entity/Q4917,129.0,2019-06-28T00:00:00Z
+http://www.wikidata.org/entity/Q23010088,Spider-Man: Homecoming,action,880166924.0,http://www.wikidata.org/entity/Q4917,133.0,2017-06-28T00:00:00Z
+http://www.wikidata.org/entity/Q29588607,Spider-Man: Into the Spider-Verse,action; sci-fi; илмӣ-тахаюллӣ,363800000.0,http://www.wikidata.org/entity/Q4917,116.0,2018-12-12T00:00:00Z
+http://www.wikidata.org/entity/Q68934496,Spider-Man: No Way Home,action; sci-fi; илмӣ-тахаюллӣ,1921847111.0,http://www.wikidata.org/entity/Q4917,148.0,2021-07-16T00:00:00Z
+http://www.wikidata.org/entity/Q377043,Splice,горор; sci-fi; илмӣ-тахаюллӣ; Horror,27127620.0,http://www.wikidata.org/entity/Q4917,103.0,2009-10-06T00:00:00Z
+http://www.wikidata.org/entity/Q213081,Star Trek,action; sci-fi; илмӣ-тахаюллӣ,385700000.0,http://www.wikidata.org/entity/Q4917,120.0,2009-05-06T00:00:00Z
+http://www.wikidata.org/entity/Q213081,Star Trek,action; sci-fi; илмӣ-тахаюллӣ,385700000.0,http://www.wikidata.org/entity/Q4917,127.0,2009-05-06T00:00:00Z
+http://www.wikidata.org/entity/Q723679,Star Trek Generations,action; sci-fi; илмӣ-тахаюллӣ,118071125.0,http://www.wikidata.org/entity/Q4917,118.0,1994-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q171711,Star Trek Into Darkness,action; sci-fi; илмӣ-тахаюллӣ,467381584.0,http://www.wikidata.org/entity/Q4917,120.0,2013-04-23T00:00:00Z
+http://www.wikidata.org/entity/Q171711,Star Trek Into Darkness,action; sci-fi; илмӣ-тахаюллӣ,467381584.0,http://www.wikidata.org/entity/Q4917,129.0,2013-04-23T00:00:00Z
+http://www.wikidata.org/entity/Q171711,Star Trek Into Darkness,action; sci-fi; илмӣ-тахаюллӣ,467381584.0,http://www.wikidata.org/entity/Q4917,132.0,2013-04-23T00:00:00Z
+http://www.wikidata.org/entity/Q221236,Star Trek: First Contact,action; sci-fi; илмӣ-тахаюллӣ,146027888.0,http://www.wikidata.org/entity/Q4917,110.0,1996-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q221236,Star Trek: First Contact,action; sci-fi; илмӣ-тахаюллӣ,146027888.0,http://www.wikidata.org/entity/Q4917,111.0,1996-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q221236,Star Trek: First Contact,action; sci-fi; илмӣ-тахаюллӣ,146027888.0,http://www.wikidata.org/entity/Q4917,112.0,1996-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q221236,Star Trek: First Contact,sci-fi; илмӣ-тахаюллӣ; action,146027888.0,http://www.wikidata.org/entity/Q4917,2.0,1996-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q673198,Star Trek: Insurrection,action; sci-fi; илмӣ-тахаюллӣ,112587658.0,http://www.wikidata.org/entity/Q4917,103.0,1998-12-11T00:00:00Z
+http://www.wikidata.org/entity/Q388319,Star Trek: Nemesis,илмӣ-тахаюллӣ; action; sci-fi,67336470.0,http://www.wikidata.org/entity/Q4917,108.0,2002-12-13T00:00:00Z
+http://www.wikidata.org/entity/Q388319,Star Trek: Nemesis,илмӣ-тахаюллӣ; action; sci-fi,67336470.0,http://www.wikidata.org/entity/Q4917,116.0,2002-12-13T00:00:00Z
+http://www.wikidata.org/entity/Q388319,Star Trek: Nemesis,илмӣ-тахаюллӣ; action; sci-fi,67336470.0,http://www.wikidata.org/entity/Q4917,117.0,2002-12-13T00:00:00Z
+http://www.wikidata.org/entity/Q20977110,Star Wars Episode IX: The Rise of Skywalker,fantasy; action,1074144248.0,http://www.wikidata.org/entity/Q4917,142.0,2019-12-18T00:00:00Z
+http://www.wikidata.org/entity/Q181069,Star Wars: Episode II – Attack of the Clones,fantasy; action; sci-fi; илмӣ-тахаюллӣ,653779970.0,http://www.wikidata.org/entity/Q4917,142.0,2002-05-16T00:00:00Z
+http://www.wikidata.org/entity/Q181069,Star Wars: Episode II – Attack of the Clones,fantasy; action; sci-fi; илмӣ-тахаюллӣ,649436358.0,http://www.wikidata.org/entity/Q4917,142.0,2002-05-16T00:00:00Z
+http://www.wikidata.org/entity/Q42051,Star Wars: Episode III – Revenge of the Sith,илмӣ-тахаюллӣ; fantasy; action; sci-fi,868390560.0,http://www.wikidata.org/entity/Q4917,140.0,2005-05-15T00:00:00Z
+http://www.wikidata.org/entity/Q42051,Star Wars: Episode III – Revenge of the Sith,sci-fi; илмӣ-тахаюллӣ; fantasy; action,850035635.0,http://www.wikidata.org/entity/Q4917,140.0,2005-05-15T00:00:00Z
+http://www.wikidata.org/entity/Q17738,Star Wars: Episode IV – A New Hope,action; sci-fi; илмӣ-тахаюллӣ,775398007.0,http://www.wikidata.org/entity/Q4917,121.0,1977-05-25T00:00:00Z
+http://www.wikidata.org/entity/Q181795,Star Wars: Episode V – The Empire Strikes Back,fantasy; action; sci-fi; илмӣ-тахаюллӣ,547879454.0,http://www.wikidata.org/entity/Q4917,124.0,1980-05-17T00:00:00Z
+http://www.wikidata.org/entity/Q181795,Star Wars: Episode V – The Empire Strikes Back,fantasy; action; sci-fi; илмӣ-тахаюллӣ,538375067.0,http://www.wikidata.org/entity/Q4917,124.0,1980-05-17T00:00:00Z
+http://www.wikidata.org/entity/Q181803,Star Wars: Episode VI – Return of the Jedi,action; sci-fi; илмӣ-тахаюллӣ; fantasy,475100000.0,http://www.wikidata.org/entity/Q4917,134.0,1983-05-25T00:00:00Z
+http://www.wikidata.org/entity/Q18486021,Star Wars: Episode VIII – The Last Jedi,fantasy; action; sci-fi; илмӣ-тахаюллӣ,1332698830.0,http://www.wikidata.org/entity/Q4917,152.0,2017-12-09T00:00:00Z
+http://www.wikidata.org/entity/Q105801,Stargate,action; sci-fi; илмӣ-тахаюллӣ,196567262.0,http://www.wikidata.org/entity/Q4917,121.0,1994-10-28T00:00:00Z
+http://www.wikidata.org/entity/Q476984,Stargate: The Ark of Truth,fantasy; sci-fi; илмӣ-тахаюллӣ,11728654.0,http://www.wikidata.org/entity/Q4917,98.0,2008-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q1790253,Steel,action; sci-fi; илмӣ-тахаюллӣ,1710972.0,http://www.wikidata.org/entity/Q4917,93.0,1997-08-15T00:00:00Z
+http://www.wikidata.org/entity/Q1138659,Street Fighter,action,99431786.0,http://www.wikidata.org/entity/Q4917,100.0,1994-12-23T00:00:00Z
+http://www.wikidata.org/entity/Q18604504,Suicide Squad,илмӣ-тахаюллӣ; fantasy; action; sci-fi,746846894.0,http://www.wikidata.org/entity/Q4917,123.0,2016-06-05T00:00:00Z
+http://www.wikidata.org/entity/Q379877,Super 8,илмӣ-тахаюллӣ; action; Horror; горор; sci-fi,260100000.0,http://www.wikidata.org/entity/Q4917,112.0,2011-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q213053,Superman,илмӣ-тахаюллӣ; action; sci-fi,300478449.0,http://www.wikidata.org/entity/Q4917,143.0,1978-12-10T00:00:00Z
+http://www.wikidata.org/entity/Q267672,Superman II,action; sci-fi; илмӣ-тахаюллӣ; fantasy,108185706.0,http://www.wikidata.org/entity/Q4917,127.0,1980-12-04T00:00:00Z
+http://www.wikidata.org/entity/Q965699,Sword of the Stranger,fantasy; action,258490.0,http://www.wikidata.org/entity/Q4917,103.0,2007-09-29T00:00:00Z
+http://www.wikidata.org/entity/Q277080,Taken,action,226800000.0,http://www.wikidata.org/entity/Q4917,93.0,2008-02-27T00:00:00Z
+http://www.wikidata.org/entity/Q1057015,Taken 2,action,376100000.0,http://www.wikidata.org/entity/Q4917,98.0,2012-10-03T00:00:00Z
+http://www.wikidata.org/entity/Q16781911,Taken 3,action,326500000.0,http://www.wikidata.org/entity/Q4917,109.0,2015-01-08T00:00:00Z
+http://www.wikidata.org/entity/Q907640,Team America: World Police,action,50826898.0,http://www.wikidata.org/entity/Q4917,98.0,2004-10-11T00:00:00Z
+http://www.wikidata.org/entity/Q641760,Ted,fantasy,549368315.0,http://www.wikidata.org/entity/Q4917,106.0,2012-06-29T00:00:00Z
+http://www.wikidata.org/entity/Q17713411,Ted 2,fantasy,216700000.0,http://www.wikidata.org/entity/Q4917,115.0,2015-06-25T00:00:00Z
+http://www.wikidata.org/entity/Q170564,Terminator 2: Judgment Day,action; sci-fi; илмӣ-тахаюллӣ,516950043.0,http://www.wikidata.org/entity/Q4917,137.0,1991-07-03T00:00:00Z
+http://www.wikidata.org/entity/Q170564,Terminator 2: Judgment Day,action; sci-fi; илмӣ-тахаюллӣ,520881154.0,http://www.wikidata.org/entity/Q4917,137.0,1991-07-03T00:00:00Z
+http://www.wikidata.org/entity/Q29054009,Terminator 3: Rise of the Machines,action; sci-fi; илмӣ-тахаюллӣ,433371112.0,http://www.wikidata.org/entity/Q4917,105.0,2003-07-02T00:00:00Z
+http://www.wikidata.org/entity/Q15140437,Terminator Genisys,action; sci-fi; илмӣ-тахаюллӣ,440603537.0,http://www.wikidata.org/entity/Q4917,126.0,2015-06-25T00:00:00Z
+http://www.wikidata.org/entity/Q191543,Terminator Salvation,action; sci-fi; илмӣ-тахаюллӣ,371353001.0,http://www.wikidata.org/entity/Q4917,115.0,2009-05-21T00:00:00Z
+http://www.wikidata.org/entity/Q39072454,Terminator: Dark Fate,action; sci-fi; илмӣ-тахаюллӣ,261119292.0,http://www.wikidata.org/entity/Q4917,128.0,2019-10-23T00:00:00Z
+http://www.wikidata.org/entity/Q1740544,The 'Burbs,Horror; горор,49101993.0,http://www.wikidata.org/entity/Q4917,101.0,1989-02-17T00:00:00Z
+http://www.wikidata.org/entity/Q65090801,The 355,action,27854237.0,http://www.wikidata.org/entity/Q4917,122.0,2022-01-05T00:00:00Z
+http://www.wikidata.org/entity/Q471746,The A-Team,action; heist,177238796.0,http://www.wikidata.org/entity/Q4917,117.0,2010-06-11T00:00:00Z
+http://www.wikidata.org/entity/Q336517,The Abyss,sci-fi; илмӣ-тахаюллӣ,90000098.0,http://www.wikidata.org/entity/Q4917,146.0,1989-08-09T00:00:00Z
+http://www.wikidata.org/entity/Q1210947,The Addams Family,Horror; горор,191502426.0,http://www.wikidata.org/entity/Q4917,95.0,1991-11-22T00:00:00Z
+http://www.wikidata.org/entity/Q823239,The Aerial,sci-fi; илмӣ-тахаюллӣ; fantasy,114649.0,http://www.wikidata.org/entity/Q4917,99.0,2007-01-24T00:00:00Z
+http://www.wikidata.org/entity/Q1831060,The Amazing Spider-Man,action,9000000.0,http://www.wikidata.org/entity/Q4917,90.0,1977-09-14T00:00:00Z
+http://www.wikidata.org/entity/Q4254026,The Amazing Spider-Man 2,action; sci-fi; илмӣ-тахаюллӣ,708982323.0,http://www.wikidata.org/entity/Q4917,142.0,2014-04-17T00:00:00Z
+http://www.wikidata.org/entity/Q728485,The Asphalt Jungle,heist,2137000.0,http://www.wikidata.org/entity/Q4917,112.0,1950-05-12T00:00:00Z
+http://www.wikidata.org/entity/Q494985,The Avengers,action; sci-fi; илмӣ-тахаюллӣ,54700000.0,http://www.wikidata.org/entity/Q4917,89.0,1998-08-14T00:00:00Z
+http://www.wikidata.org/entity/Q182218,The Avengers,action; sci-fi; илмӣ-тахаюллӣ,1518812988.0,http://www.wikidata.org/entity/Q4917,142.0,2011-07-15T00:00:00Z
+http://www.wikidata.org/entity/Q1888170,"The Beast from 20,000 Fathoms",fantasy; action; sci-fi; илмӣ-тахаюллӣ,5000000.0,http://www.wikidata.org/entity/Q4917,80.0,1953-06-13T00:00:00Z
+http://www.wikidata.org/entity/Q110043,The Birds,Horror; горор; sci-fi; илмӣ-тахаюллӣ,11436618.0,http://www.wikidata.org/entity/Q4917,115.0,1963-03-28T00:00:00Z
+http://www.wikidata.org/entity/Q105584511,The Black Phone,Horror; горор,155928295.0,http://www.wikidata.org/entity/Q4917,102.0,2021-09-25T00:00:00Z
+http://www.wikidata.org/entity/Q105584511,The Black Phone,Horror; горор,155928295.0,http://www.wikidata.org/entity/Q4917,103.0,2021-09-25T00:00:00Z
+http://www.wikidata.org/entity/Q105624,The Bourne Identity,action,214034224.0,http://www.wikidata.org/entity/Q4917,118.0,2002-06-06T00:00:00Z
+http://www.wikidata.org/entity/Q494048,The Bourne Legacy,action,276144750.0,http://www.wikidata.org/entity/Q4917,135.0,2012-07-30T00:00:00Z
+http://www.wikidata.org/entity/Q156608,The Bourne Supremacy,action,290633422.0,http://www.wikidata.org/entity/Q4917,108.0,2004-07-15T00:00:00Z
+http://www.wikidata.org/entity/Q156608,The Bourne Supremacy,action,290835269.0,http://www.wikidata.org/entity/Q4917,108.0,2004-07-15T00:00:00Z
+http://www.wikidata.org/entity/Q107226,The Bourne Ultimatum,action,444100035.0,http://www.wikidata.org/entity/Q4917,111.0,2007-07-25T00:00:00Z
+http://www.wikidata.org/entity/Q496724,The Chaser,action,36495748.0,http://www.wikidata.org/entity/Q4917,123.0,2008-02-14T00:00:00Z
+http://www.wikidata.org/entity/Q474082,The Chronicles of Narnia: The Voyage of the Dawn Treader,fantasy; action,415700000.0,http://www.wikidata.org/entity/Q4917,123.0,2010-12-09T00:00:00Z
+http://www.wikidata.org/entity/Q749988,The City of Lost Children,fantasy; sci-fi; илмӣ-тахаюллӣ,11000000.0,http://www.wikidata.org/entity/Q4917,108.0,1995-05-17T00:00:00Z
+http://www.wikidata.org/entity/Q409064,The Concorde ... Airport '79,action,65000000.0,http://www.wikidata.org/entity/Q4917,106.0,1979-08-03T00:00:00Z
+http://www.wikidata.org/entity/Q110617876,The Creator,sci-fi; илмӣ-тахаюллӣ,61829037.0,http://www.wikidata.org/entity/Q4917,133.0,2023-09-26T00:00:00Z
+http://www.wikidata.org/entity/Q183239,The Curious Case of Benjamin Button,fantasy,333900000.0,http://www.wikidata.org/entity/Q4917,166.0,2008-12-10T00:00:00Z
+http://www.wikidata.org/entity/Q1444756,The Curse of Frankenstein,Horror; горор,8000000.0,http://www.wikidata.org/entity/Q4917,82.0,1957-05-20T00:00:00Z
+http://www.wikidata.org/entity/Q163872,The Dark Knight,action,1006234167.0,http://www.wikidata.org/entity/Q4917,153.0,2008-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q189330,The Dark Knight Rises,action,1081169825.0,http://www.wikidata.org/entity/Q4917,164.0,2012-07-20T00:00:00Z
+http://www.wikidata.org/entity/Q14320,The Day After Tomorrow,action,542771772.0,http://www.wikidata.org/entity/Q4917,118.0,2004-05-27T00:00:00Z
+http://www.wikidata.org/entity/Q24905490,The Death of Stalin,чёрная комедия,24646055.0,http://www.wikidata.org/entity/Q4917,106.0,2017-09-08T00:00:00Z
+http://www.wikidata.org/entity/Q19648591,The Divergent Series: Allegiant,action; sci-fi; илмӣ-тахаюллӣ,179246868.0,http://www.wikidata.org/entity/Q4917,120.0,2016-03-08T00:00:00Z
+http://www.wikidata.org/entity/Q16997069,The Divergent Series: Insurgent,action; sci-fi; илмӣ-тахаюллӣ,297002527.0,http://www.wikidata.org/entity/Q4917,119.0,2015-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q16997069,The Divergent Series: Insurgent,action; sci-fi; илмӣ-тахаюллӣ,297300000.0,http://www.wikidata.org/entity/Q4917,119.0,2015-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q1130211,The Double Life of Véronique,fantasy,2175939.0,http://www.wikidata.org/entity/Q4917,98.0,1991-05-15T00:00:00Z
+http://www.wikidata.org/entity/Q759333,The Edge,action,43312294.0,http://www.wikidata.org/entity/Q4917,113.0,1997-09-26T00:00:00Z
+http://www.wikidata.org/entity/Q274167,The Exorcist,Horror; горор,441306145.0,http://www.wikidata.org/entity/Q4917,122.0,1973-12-26T00:00:00Z
+http://www.wikidata.org/entity/Q206374,The Expendables,action,274500000.0,http://www.wikidata.org/entity/Q4917,104.0,2010-08-03T00:00:00Z
+http://www.wikidata.org/entity/Q14370516,The Expendables 3,action,214700000.0,http://www.wikidata.org/entity/Q4917,126.0,2014-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q155476,The Fast and the Furious,action,207517509.0,http://www.wikidata.org/entity/Q4917,103.0,2001-06-22T00:00:00Z
+http://www.wikidata.org/entity/Q213208,The Fast and the Furious: Tokyo Drift,action,158964610.0,http://www.wikidata.org/entity/Q4917,104.0,2006-06-04T00:00:00Z
+http://www.wikidata.org/entity/Q19829521,The Fate of the Furious,action,1236005118.0,http://www.wikidata.org/entity/Q4917,136.0,2017-04-04T00:00:00Z
+http://www.wikidata.org/entity/Q106506,The Fifth Element,fantasy; action; sci-fi; илмӣ-тахаюллӣ,263900000.0,http://www.wikidata.org/entity/Q4917,121.0,1997-05-07T00:00:00Z
+http://www.wikidata.org/entity/Q468700,The Fly,Horror; горор; sci-fi; илмӣ-тахаюллӣ,60629159.0,http://www.wikidata.org/entity/Q4917,92.0,1986-08-15T00:00:00Z
+http://www.wikidata.org/entity/Q220735,The French Connection,action,75000000.0,http://www.wikidata.org/entity/Q4917,104.0,1971-10-07T00:00:00Z
+http://www.wikidata.org/entity/Q156309,The Fugitive,action,368875760.0,http://www.wikidata.org/entity/Q4917,130.0,1993-08-06T00:00:00Z
+http://www.wikidata.org/entity/Q637021,The Golden Compass,fantasy; action; sci-fi; илмӣ-тахаюллӣ,372234864.0,http://www.wikidata.org/entity/Q4917,109.0,2007-11-27T00:00:00Z
+http://www.wikidata.org/entity/Q7737199,The Good Dinosaur,fantasy,332207671.0,http://www.wikidata.org/entity/Q4917,94.0,2014-05-30T00:00:00Z
+http://www.wikidata.org/entity/Q636043,The Goonies,action,63980721.0,http://www.wikidata.org/entity/Q4917,114.0,1985-06-07T00:00:00Z
+http://www.wikidata.org/entity/Q19587336,The Great Wall,sci-fi; илмӣ-тахаюллӣ; action; fantasy,334933831.0,http://www.wikidata.org/entity/Q4917,103.0,2016-12-16T00:00:00Z
+http://www.wikidata.org/entity/Q738152,The Green Hornet,fantasy; action; sci-fi; илмӣ-тахаюллӣ,227800000.0,http://www.wikidata.org/entity/Q4917,119.0,2011-01-13T00:00:00Z
+http://www.wikidata.org/entity/Q208263,The Green Mile,fantasy,286801374.0,http://www.wikidata.org/entity/Q4917,189.0,1999-12-06T00:00:00Z
+http://www.wikidata.org/entity/Q1147689,The Grey,action,81249176.0,http://www.wikidata.org/entity/Q4917,117.0,2012-01-27T00:00:00Z
+http://www.wikidata.org/entity/Q135156,The Heat,action,229900000.0,http://www.wikidata.org/entity/Q4917,117.0,2013-06-27T00:00:00Z
+http://www.wikidata.org/entity/Q994724,The Hills Have Eyes,Horror; горор,25000000.0,http://www.wikidata.org/entity/Q4917,89.0,1977-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q80379,The Hobbit: An Unexpected Journey,fantasy; action,1017003568.0,http://www.wikidata.org/entity/Q4917,169.0,2012-11-28T00:00:00Z
+http://www.wikidata.org/entity/Q80379,The Hobbit: An Unexpected Journey,fantasy; action,1017003568.0,http://www.wikidata.org/entity/Q4917,182.0,2012-11-28T00:00:00Z
+http://www.wikidata.org/entity/Q919649,The Hobbit: The Battle of the Five Armies,action; fantasy,956019788.0,http://www.wikidata.org/entity/Q4917,144.0,2014-12-01T00:00:00Z
+http://www.wikidata.org/entity/Q719915,The Hobbit: The Desolation of Smaug,action; fantasy,958366855.0,http://www.wikidata.org/entity/Q4917,161.0,2013-12-02T00:00:00Z
+http://www.wikidata.org/entity/Q488222,The Host,Horror; горор; sci-fi; илмӣ-тахаюллӣ,89433436.0,http://www.wikidata.org/entity/Q4917,119.0,2006-05-21T00:00:00Z
+http://www.wikidata.org/entity/Q212965,The Hunger Games,fantasy; action; sci-fi; илмӣ-тахаюллӣ,695220619.0,http://www.wikidata.org/entity/Q4917,142.0,2012-03-21T00:00:00Z
+http://www.wikidata.org/entity/Q574583,The Hunger Games: Catching Fire,action; sci-fi; илмӣ-тахаюллӣ,865011746.0,http://www.wikidata.org/entity/Q4917,146.0,2012-03-21T00:00:00Z
+http://www.wikidata.org/entity/Q4142083,The Hunger Games: Mockingjay – Part 1,action; sci-fi; илмӣ-тахаюллӣ,755356711.0,http://www.wikidata.org/entity/Q4917,123.0,2014-11-19T00:00:00Z
+http://www.wikidata.org/entity/Q10307713,The Hunger Games: Mockingjay – Part 2,action; sci-fi; илмӣ-тахаюллӣ,653428261.0,http://www.wikidata.org/entity/Q4917,137.0,2015-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q10307713,The Hunger Games: Mockingjay – Part 2,action; sci-fi; илмӣ-тахаюллӣ,661456563.0,http://www.wikidata.org/entity/Q4917,137.0,2015-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q507994,The Hunt for Red October,action,200512643.0,http://www.wikidata.org/entity/Q4917,129.0,1990-03-02T00:00:00Z
+http://www.wikidata.org/entity/Q178966,The Invention of Lying,fantasy,32406507.0,http://www.wikidata.org/entity/Q4917,100.0,2009-10-02T00:00:00Z
+http://www.wikidata.org/entity/Q867283,The Iron Giant,fantasy; action; sci-fi; илмӣ-тахаюллӣ,23335817.0,http://www.wikidata.org/entity/Q4917,86.0,1999-07-31T00:00:00Z
+http://www.wikidata.org/entity/Q759420,The Jewel of the Nile,action,96773200.0,http://www.wikidata.org/entity/Q4917,106.0,1985-12-11T00:00:00Z
+http://www.wikidata.org/entity/Q11593,The Last Airbender,fantasy; action,319700000.0,http://www.wikidata.org/entity/Q4917,99.0,2010-07-29T00:00:00Z
+http://www.wikidata.org/entity/Q1218847,The Last Castle,action,27642707.0,http://www.wikidata.org/entity/Q4917,126.0,2001-10-19T00:00:00Z
+http://www.wikidata.org/entity/Q207130,The Last Samurai,action,456758981.0,http://www.wikidata.org/entity/Q4917,154.0,2003-11-22T00:00:00Z
+http://www.wikidata.org/entity/Q17361809,The Legend of Tarzan,action,356700000.0,http://www.wikidata.org/entity/Q4917,109.0,2016-06-30T00:00:00Z
+http://www.wikidata.org/entity/Q55402791,The Lighthouse,fantasy; Horror; горор,18178770.0,http://www.wikidata.org/entity/Q4917,109.0,2019-10-05T00:00:00Z
+http://www.wikidata.org/entity/Q272064,The Living Daylights,action,191199996.0,http://www.wikidata.org/entity/Q4917,130.0,1987-06-27T00:00:00Z
+http://www.wikidata.org/entity/Q468484,The Longest Day,action,50000000.0,http://www.wikidata.org/entity/Q4917,180.0,1962-09-25T00:00:00Z
+http://www.wikidata.org/entity/Q127367,The Lord of the Rings: The Fellowship of the Ring,fantasy; action,883726270.0,http://www.wikidata.org/entity/Q4917,171.0,2001-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q127367,The Lord of the Rings: The Fellowship of the Ring,fantasy; action,883726270.0,http://www.wikidata.org/entity/Q4917,178.0,2001-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q127367,The Lord of the Rings: The Fellowship of the Ring,fantasy; action,883726270.0,http://www.wikidata.org/entity/Q4917,208.0,2001-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q127367,The Lord of the Rings: The Fellowship of the Ring,fantasy; action,883726270.0,http://www.wikidata.org/entity/Q4917,228.0,2001-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q131074,The Lord of the Rings: The Return of the King,fantasy; action,1140682011.0,http://www.wikidata.org/entity/Q4917,201.0,2003-12-01T00:00:00Z
+http://www.wikidata.org/entity/Q164963,The Lord of the Rings: The Two Towers,fantasy; action,936689735.0,http://www.wikidata.org/entity/Q4917,179.0,2002-12-05T00:00:00Z
+http://www.wikidata.org/entity/Q200873,The Lost World: Jurassic Park,sci-fi; илмӣ-тахаюллӣ; action,618638999.0,http://www.wikidata.org/entity/Q4917,129.0,1997-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q24496982,The Love Witch,Horror; горор,281063.0,http://www.wikidata.org/entity/Q4917,120.0,2016-01-31T00:00:00Z
+http://www.wikidata.org/entity/Q14488725,The Man from U.N.C.L.E.,heist; action,107045109.0,http://www.wikidata.org/entity/Q4917,116.0,2015-08-02T00:00:00Z
+http://www.wikidata.org/entity/Q309289,The Man with the Golden Gun,action,97600000.0,http://www.wikidata.org/entity/Q4917,125.0,1974-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q18547944,The Martian,action; sci-fi; илмӣ-тахаюллӣ,630161890.0,http://www.wikidata.org/entity/Q4917,141.0,2015-10-01T00:00:00Z
+http://www.wikidata.org/entity/Q219421,The Mask,fantasy,351600000.0,http://www.wikidata.org/entity/Q4917,97.0,1994-07-29T00:00:00Z
+http://www.wikidata.org/entity/Q83495,The Matrix,action; sci-fi; илмӣ-тахаюллӣ,467222728.0,http://www.wikidata.org/entity/Q4917,136.0,1999-03-31T00:00:00Z
+http://www.wikidata.org/entity/Q189600,The Matrix Reloaded,action; sci-fi; илмӣ-тахаюллӣ,739412035.0,http://www.wikidata.org/entity/Q4917,138.0,2003-05-15T00:00:00Z
+http://www.wikidata.org/entity/Q13099455,The Maze Runner,action; fantasy,348319861.0,http://www.wikidata.org/entity/Q4917,113.0,2014-09-18T00:00:00Z
+http://www.wikidata.org/entity/Q27957869,The Meg,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,530243742.0,http://www.wikidata.org/entity/Q4917,113.0,2018-08-09T00:00:00Z
+http://www.wikidata.org/entity/Q30114954,The Mimic,Horror; горор,9362702.0,http://www.wikidata.org/entity/Q4917,100.0,2017-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q695209,The Mist,Horror; горор; sci-fi; илмӣ-тахаюллӣ,57470220.0,http://www.wikidata.org/entity/Q4917,126.0,2007-11-21T00:00:00Z
+http://www.wikidata.org/entity/Q23759268,The Mummy,fantasy; action; Horror; горор,409231607.0,http://www.wikidata.org/entity/Q4917,107.0,2017-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q320461,The Mummy Returns,fantasy; action; Horror; горор,433013274.0,http://www.wikidata.org/entity/Q4917,129.0,2001-04-29T00:00:00Z
+http://www.wikidata.org/entity/Q155018,The Name of the Rose,Horror; горор,77200000.0,http://www.wikidata.org/entity/Q4917,126.0,1986-09-24T00:00:00Z
+http://www.wikidata.org/entity/Q28912376,The New Mutants,action; Horror; горор; sci-fi; илмӣ-тахаюллӣ,49169594.0,http://www.wikidata.org/entity/Q4917,94.0,2020-08-27T00:00:00Z
+http://www.wikidata.org/entity/Q322328,The Nightmare Before Christmas,fantasy,91221845.0,http://www.wikidata.org/entity/Q4917,73.0,1993-10-13T00:00:00Z
+http://www.wikidata.org/entity/Q29841731,The Nun,Horror; горор,365600000.0,http://www.wikidata.org/entity/Q4917,96.0,2018-09-06T00:00:00Z
+http://www.wikidata.org/entity/Q862197,The Polar Express,fantasy,311365072.0,http://www.wikidata.org/entity/Q4917,96.0,2004-10-21T00:00:00Z
+http://www.wikidata.org/entity/Q874496,The Poseidon Adventure,action,125000000.0,http://www.wikidata.org/entity/Q4917,112.0,1972-12-13T00:00:00Z
+http://www.wikidata.org/entity/Q46551,The Prestige,fantasy,109676311.0,http://www.wikidata.org/entity/Q4917,125.0,2006-10-17T00:00:00Z
+http://www.wikidata.org/entity/Q506418,The Princess Bride,fantasy,30902442.0,http://www.wikidata.org/entity/Q4917,94.0,1987-09-25T00:00:00Z
+http://www.wikidata.org/entity/Q212804,The Ring,горор; Horror,249348933.0,http://www.wikidata.org/entity/Q4917,116.0,2002-10-02T00:00:00Z
+http://www.wikidata.org/entity/Q866358,The Road to El Dorado,fantasy,76432727.0,http://www.wikidata.org/entity/Q4917,90.0,2000-03-31T00:00:00Z
+http://www.wikidata.org/entity/Q216720,The Rock,action,335100000.0,http://www.wikidata.org/entity/Q4917,127.0,1996-06-07T00:00:00Z
+http://www.wikidata.org/entity/Q109355923,The Roundup,action,101706187.0,http://www.wikidata.org/entity/Q4917,106.0,2022-05-18T00:00:00Z
+http://www.wikidata.org/entity/Q3522637,The Secret Life of Walter Mitty,fantasy,188133322.0,http://www.wikidata.org/entity/Q4917,114.0,2013-10-05T00:00:00Z
+http://www.wikidata.org/entity/Q1546938,The Shadow,action,48063435.0,http://www.wikidata.org/entity/Q4917,108.0,1994-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q186341,The Shining,Horror; горор,47299460.0,http://www.wikidata.org/entity/Q4917,144.0,1980-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q133654,The Silence of the Lambs,Horror; горор,272742922.0,http://www.wikidata.org/entity/Q4917,118.0,1991-01-30T00:00:00Z
+http://www.wikidata.org/entity/Q183063,The Sixth Sense,Horror; горор,672806292.0,http://www.wikidata.org/entity/Q4917,107.0,1999-08-02T00:00:00Z
+http://www.wikidata.org/entity/Q57317060,The Suicide Squad,action; sci-fi; илмӣ-тахаюллӣ,168717425.0,http://www.wikidata.org/entity/Q4917,132.0,2021-07-30T00:00:00Z
+http://www.wikidata.org/entity/Q162255,The Terminator,action; sci-fi; илмӣ-тахаюллӣ,78371200.0,http://www.wikidata.org/entity/Q4917,108.0,1984-10-26T00:00:00Z
+http://www.wikidata.org/entity/Q886597,The Texas Chain Saw Massacre,Horror; горор,30860378.0,http://www.wikidata.org/entity/Q4917,83.0,1974-10-01T00:00:00Z
+http://www.wikidata.org/entity/Q210756,The Thing,Horror; горор; sci-fi; илмӣ-тахаюллӣ,19632053.0,http://www.wikidata.org/entity/Q4917,108.0,1982-06-25T00:00:00Z
+http://www.wikidata.org/entity/Q1217787,The Time Machine,sci-fi; илмӣ-тахаюллӣ,2610000.0,http://www.wikidata.org/entity/Q4917,99.0,1960-05-25T00:00:00Z
+http://www.wikidata.org/entity/Q629975,The Tourist,action,278300000.0,http://www.wikidata.org/entity/Q4917,103.0,2010-12-08T00:00:00Z
+http://www.wikidata.org/entity/Q372959,The Towering Inferno,action,203300000.0,http://www.wikidata.org/entity/Q4917,158.0,1974-12-14T00:00:00Z
+http://www.wikidata.org/entity/Q3821776,The Town That Dreaded Sundown,горор; Horror,5000000.0,http://www.wikidata.org/entity/Q4917,90.0,1976-12-24T00:00:00Z
+http://www.wikidata.org/entity/Q60506,The Twilight Saga: Breaking Dawn – Part 1,fantasy,712205856.0,http://www.wikidata.org/entity/Q4917,117.0,2011-10-30T00:00:00Z
+http://www.wikidata.org/entity/Q60487,The Twilight Saga: Breaking Dawn – Part 2,fantasy,829746820.0,http://www.wikidata.org/entity/Q4917,116.0,2012-11-14T00:00:00Z
+http://www.wikidata.org/entity/Q217010,The Twilight Saga: Eclipse,fantasy,698491347.0,http://www.wikidata.org/entity/Q4917,124.0,2010-06-24T00:00:00Z
+http://www.wikidata.org/entity/Q116928,The Twilight Saga: New Moon,fantasy; action; Horror; горор,711020081.0,http://www.wikidata.org/entity/Q4917,131.0,2009-11-16T00:00:00Z
+http://www.wikidata.org/entity/Q87220566,The Unbearable Weight of Massive Talent,action,29116320.0,http://www.wikidata.org/entity/Q4917,107.0,2022-04-20T00:00:00Z
+http://www.wikidata.org/entity/Q465227,The Village,горор; Horror,256700000.0,http://www.wikidata.org/entity/Q4917,108.0,2004-07-26T00:00:00Z
+http://www.wikidata.org/entity/Q22972803,The Wailing,Horror; горор,51539562.0,http://www.wikidata.org/entity/Q4917,156.0,2016-05-11T00:00:00Z
+http://www.wikidata.org/entity/Q17183895,The Walk,action,61181942.0,http://www.wikidata.org/entity/Q4917,123.0,2015-09-30T00:00:00Z
+http://www.wikidata.org/entity/Q57966215,The Wandering Earth,sci-fi; илмӣ-тахаюллӣ,699760773.0,http://www.wikidata.org/entity/Q4917,125.0,2019-01-28T00:00:00Z
+http://www.wikidata.org/entity/Q1122971,The Warriors,action,22490471.0,http://www.wikidata.org/entity/Q4917,93.0,1979-02-01T00:00:00Z
+http://www.wikidata.org/entity/Q1693691,The Way of the Gun,heist; action,13200972.0,http://www.wikidata.org/entity/Q4917,114.0,2000-09-08T00:00:00Z
+http://www.wikidata.org/entity/Q19057481,The Witch,Horror; горор,40423945.0,http://www.wikidata.org/entity/Q4917,93.0,2016-02-19T00:00:00Z
+http://www.wikidata.org/entity/Q111364645,The Witch: Part 2. The Other One,action,23010168.0,http://www.wikidata.org/entity/Q4917,137.0,2022-06-15T00:00:00Z
+http://www.wikidata.org/entity/Q197491,The Wolverine,fantasy; action; sci-fi; илмӣ-тахаюллӣ,414800000.0,http://www.wikidata.org/entity/Q4917,138.0,2013-07-25T00:00:00Z
+http://www.wikidata.org/entity/Q109905743,The Woman King,action,97250903.0,http://www.wikidata.org/entity/Q4917,135.0,2022-09-16T00:00:00Z
+http://www.wikidata.org/entity/Q841274,The Woman in Black,Horror; горор,128955898.0,http://www.wikidata.org/entity/Q4917,95.0,2012-02-03T00:00:00Z
+http://www.wikidata.org/entity/Q1129381,The X-Files,action; sci-fi; илмӣ-тахаюллӣ,189176423.0,http://www.wikidata.org/entity/Q4917,121.0,1998-06-19T00:00:00Z
+http://www.wikidata.org/entity/Q2044064,The Yakuza,action,1500000.0,http://www.wikidata.org/entity/Q4917,107.0,1974-12-21T00:00:00Z
+http://www.wikidata.org/entity/Q483780,Thirst,Horror; горор; sci-fi; илмӣ-тахаюллӣ,13085023.0,http://www.wikidata.org/entity/Q4917,133.0,2009-04-30T00:00:00Z
+http://www.wikidata.org/entity/Q607363,This Is the End,fantasy,126041322.0,http://www.wikidata.org/entity/Q4917,107.0,2013-06-03T00:00:00Z
+http://www.wikidata.org/entity/Q217020,Thor,fantasy; action; sci-fi; илмӣ-тахаюллӣ,449326618.0,http://www.wikidata.org/entity/Q4917,114.0,2011-04-27T00:00:00Z
+http://www.wikidata.org/entity/Q65768604,Thor: Love and Thunder,action; sci-fi; илмӣ-тахаюллӣ,760928081.0,http://www.wikidata.org/entity/Q4917,119.0,2021-10-28T00:00:00Z
+http://www.wikidata.org/entity/Q22665878,Thor: Ragnarok,action; sci-fi; илмӣ-тахаюллӣ; fantasy,853977126.0,http://www.wikidata.org/entity/Q4917,130.0,2017-07-28T00:00:00Z
+http://www.wikidata.org/entity/Q1201853,Thor: The Dark World,илмӣ-тахаюллӣ; fantasy; action; sci-fi,644783140.0,http://www.wikidata.org/entity/Q4917,112.0,2013-10-31T00:00:00Z
+http://www.wikidata.org/entity/Q94525569,Three Thousand Years of Longing,fantasy,20282422.0,http://www.wikidata.org/entity/Q4917,108.0,2022-05-20T00:00:00Z
+http://www.wikidata.org/entity/Q107724,Thunderball,action,141200000.0,http://www.wikidata.org/entity/Q4917,130.0,1965-12-09T00:00:00Z
+http://www.wikidata.org/entity/Q151884,Tideland,fantasy,1072932.0,http://www.wikidata.org/entity/Q4917,120.0,2005-09-09T00:00:00Z
+http://www.wikidata.org/entity/Q240849,Timecop,action; sci-fi; илмӣ-тахаюллӣ,101646581.0,http://www.wikidata.org/entity/Q4917,98.0,1994-09-16T00:00:00Z
+http://www.wikidata.org/entity/Q510864,Timecrimes,илмӣ-тахаюллӣ; sci-fi,564474.0,http://www.wikidata.org/entity/Q4917,88.0,2007-09-20T00:00:00Z
+http://www.wikidata.org/entity/Q471911,Tom-Yum-Goong,action,27165581.0,http://www.wikidata.org/entity/Q4917,90.0,2005-08-11T00:00:00Z
+http://www.wikidata.org/entity/Q207916,Tomorrow Never Dies,action,333011068.0,http://www.wikidata.org/entity/Q4917,119.0,1997-12-18T00:00:00Z
+http://www.wikidata.org/entity/Q110138,Top Gun,action,357288178.0,http://www.wikidata.org/entity/Q4917,105.0,1986-05-16T00:00:00Z
+http://www.wikidata.org/entity/Q110138,Top Gun,action,357288178.0,http://www.wikidata.org/entity/Q4917,109.0,1986-05-16T00:00:00Z
+http://www.wikidata.org/entity/Q110138,Top Gun,action,356800000.0,http://www.wikidata.org/entity/Q4917,105.0,1986-05-16T00:00:00Z
+http://www.wikidata.org/entity/Q110138,Top Gun,action,356800000.0,http://www.wikidata.org/entity/Q4917,109.0,1986-05-16T00:00:00Z
+http://www.wikidata.org/entity/Q110138,Top Gun,action,356800000.0,http://www.wikidata.org/entity/Q4917,110.0,1986-05-16T00:00:00Z
+http://www.wikidata.org/entity/Q110138,Top Gun,action,357288178.0,http://www.wikidata.org/entity/Q4917,110.0,1986-05-16T00:00:00Z
+http://www.wikidata.org/entity/Q31202708,Top Gun: Maverick,action,1443725344.0,http://www.wikidata.org/entity/Q4917,130.0,2022-05-18T00:00:00Z
+http://www.wikidata.org/entity/Q222018,Total Recall,илмӣ-тахаюллӣ; sci-fi; action,261299840.0,http://www.wikidata.org/entity/Q4917,113.0,1990-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q171048,Toy Story,fantasy,394436586.0,http://www.wikidata.org/entity/Q4917,81.0,1995-11-22T00:00:00Z
+http://www.wikidata.org/entity/Q20948236,Train to Busan,горор; action; Horror,92764199.0,http://www.wikidata.org/entity/Q4917,118.0,2016-05-13T00:00:00Z
+http://www.wikidata.org/entity/Q308929,Training Day,action,104876233.0,http://www.wikidata.org/entity/Q4917,118.0,2001-10-05T00:00:00Z
+http://www.wikidata.org/entity/Q171453,Transformers,action; sci-fi; илмӣ-тахаюллӣ,709709780.0,http://www.wikidata.org/entity/Q4917,143.0,2007-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q6151665,Transformers: Age of Extinction,action; sci-fi; илмӣ-тахаюллӣ,1104054072.0,http://www.wikidata.org/entity/Q4917,165.0,2014-06-19T00:00:00Z
+http://www.wikidata.org/entity/Q232774,Transformers: Dark of the Moon,action; sci-fi; илмӣ-тахаюллӣ,1123794079.0,http://www.wikidata.org/entity/Q4917,154.0,2011-06-23T00:00:00Z
+http://www.wikidata.org/entity/Q191100,Transformers: Revenge of the Fallen,action; sci-fi; илмӣ-тахаюллӣ,836303693.0,http://www.wikidata.org/entity/Q4917,150.0,2009-06-19T00:00:00Z
+http://www.wikidata.org/entity/Q633131,Trollhunter,fantasy; Horror; горор,5341098.0,http://www.wikidata.org/entity/Q4917,103.0,2010-10-29T00:00:00Z
+http://www.wikidata.org/entity/Q380981,Tropic Thunder,action,195702963.0,http://www.wikidata.org/entity/Q4917,107.0,2008-08-13T00:00:00Z
+http://www.wikidata.org/entity/Q110397,True Lies,action,378882411.0,http://www.wikidata.org/entity/Q4917,141.0,1994-07-15T00:00:00Z
+http://www.wikidata.org/entity/Q15139203,Tusk,Horror; горор,1882074.0,http://www.wikidata.org/entity/Q4917,102.0,2014-09-06T00:00:00Z
+http://www.wikidata.org/entity/Q160071,Twilight,fantasy; action,393600000.0,http://www.wikidata.org/entity/Q4917,122.0,2008-11-17T00:00:00Z
+http://www.wikidata.org/entity/Q318016,Twilight's Last Gleaming,heist; sci-fi; илмӣ-тахаюллӣ,4500000.0,http://www.wikidata.org/entity/Q4917,118.0,1977-02-09T00:00:00Z
+http://www.wikidata.org/entity/Q683663,Twister,action,494580615.0,http://www.wikidata.org/entity/Q4917,113.0,1996-05-10T00:00:00Z
+http://www.wikidata.org/entity/Q576367,U-571,action,127666415.0,http://www.wikidata.org/entity/Q4917,111.0,2000-04-21T00:00:00Z
+http://www.wikidata.org/entity/Q650613,Unbreakable,fantasy; Horror; горор; sci-fi; илмӣ-тахаюллӣ,248100000.0,http://www.wikidata.org/entity/Q4917,106.0,2000-12-28T00:00:00Z
+http://www.wikidata.org/entity/Q67171881,Uncharted,action,231194293.0,http://www.wikidata.org/entity/Q4917,116.0,2022-02-10T00:00:00Z
+http://www.wikidata.org/entity/Q553901,Uncle Boonmee Who Can Recall His Past Lives,fantasy,1214424.0,http://www.wikidata.org/entity/Q4917,113.0,2010-05-21T00:00:00Z
+http://www.wikidata.org/entity/Q33105130,Underwater,Horror; горор,40882928.0,http://www.wikidata.org/entity/Q4917,93.0,2020-01-09T00:00:00Z
+http://www.wikidata.org/entity/Q7899323,Upstream Color,илмӣ-тахаюллӣ; sci-fi,587174.0,http://www.wikidata.org/entity/Q4917,96.0,2013-01-21T00:00:00Z
+http://www.wikidata.org/entity/Q56000996,Us,илмӣ-тахаюллӣ; горор; sci-fi; action; Horror,255185482.0,http://www.wikidata.org/entity/Q4917,116.0,2019-03-20T00:00:00Z
+http://www.wikidata.org/entity/Q56000996,Us,горор; sci-fi; илмӣ-тахаюллӣ; action; Horror,255185482.0,http://www.wikidata.org/entity/Q4917,112.0,2019-03-20T00:00:00Z
+http://www.wikidata.org/entity/Q211009,Van Helsing,fantasy; action; Horror; горор,300157638.0,http://www.wikidata.org/entity/Q4917,126.0,2004-05-03T00:00:00Z
+http://www.wikidata.org/entity/Q110278,Vanilla Sky,sci-fi; илмӣ-тахаюллӣ,203400000.0,http://www.wikidata.org/entity/Q4917,136.0,2002-01-24T00:00:00Z
+http://www.wikidata.org/entity/Q60498064,Venom: Let There Be Carnage,action,493472195.0,http://www.wikidata.org/entity/Q4917,120.0,2021-09-30T00:00:00Z
+http://www.wikidata.org/entity/Q1356402,Vertical Limit,action,215700000.0,http://www.wikidata.org/entity/Q4917,119.0,2000-12-03T00:00:00Z
+http://www.wikidata.org/entity/Q658009,Village of the Damned,Horror; горор; sci-fi; илмӣ-тахаюллӣ,2175000.0,http://www.wikidata.org/entity/Q4917,77.0,1960-06-16T00:00:00Z
+http://www.wikidata.org/entity/Q381528,Wanda,heist,108522.0,http://www.wikidata.org/entity/Q4917,102.0,1971-01-14T00:00:00Z
+http://www.wikidata.org/entity/Q4444,Wanted,action,341400000.0,http://www.wikidata.org/entity/Q4917,110.0,2008-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q4444,Wanted,action,342463063.0,http://www.wikidata.org/entity/Q4917,110.0,2008-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q202028,War of the Worlds,sci-fi; илмӣ-тахаюллӣ; fantasy; action; Horror; горор,591745532.0,http://www.wikidata.org/entity/Q4917,116.0,2005-06-29T00:00:00Z
+http://www.wikidata.org/entity/Q202028,War of the Worlds,sci-fi; илмӣ-тахаюллӣ; fantasy; action; Horror; горор,603873119.0,http://www.wikidata.org/entity/Q4917,116.0,2005-06-29T00:00:00Z
+http://www.wikidata.org/entity/Q162182,Watchmen,action,185382813.0,http://www.wikidata.org/entity/Q4917,162.0,2009-02-23T00:00:00Z
+http://www.wikidata.org/entity/Q162182,Watchmen,action,185382813.0,http://www.wikidata.org/entity/Q4917,186.0,2009-02-23T00:00:00Z
+http://www.wikidata.org/entity/Q162182,Watchmen,action,185382813.0,http://www.wikidata.org/entity/Q4917,216.0,2009-02-23T00:00:00Z
+http://www.wikidata.org/entity/Q570481,What Lies Beneath,Horror; горор,291400000.0,http://www.wikidata.org/entity/Q4917,124.0,2000-09-28T00:00:00Z
+http://www.wikidata.org/entity/Q17036671,What We Do in the Shadows,Horror; горор,7253160.0,http://www.wikidata.org/entity/Q4917,86.0,2014-01-19T00:00:00Z
+http://www.wikidata.org/entity/Q17036671,What We Do in the Shadows,Horror; горор,5886859.0,http://www.wikidata.org/entity/Q4917,86.0,2014-01-19T00:00:00Z
+http://www.wikidata.org/entity/Q392806,Where Eagles Dare,action,21000000.0,http://www.wikidata.org/entity/Q4917,158.0,1969-01-22T00:00:00Z
+http://www.wikidata.org/entity/Q2350772,White House Down,action,205366737.0,http://www.wikidata.org/entity/Q4917,131.0,2013-09-05T00:00:00Z
+http://www.wikidata.org/entity/Q7997781,Why Don't You Play in Hell?,action,1265872.0,http://www.wikidata.org/entity/Q4917,129.0,2013-08-29T00:00:00Z
+http://www.wikidata.org/entity/Q826840,Wild Hogs,action,253600000.0,http://www.wikidata.org/entity/Q4917,99.0,2007-04-19T00:00:00Z
+http://www.wikidata.org/entity/Q515931,Willow,fantasy,137600000.0,http://www.wikidata.org/entity/Q4917,126.0,1988-05-20T00:00:00Z
+http://www.wikidata.org/entity/Q1145275,Windtalkers,action,77628265.0,http://www.wikidata.org/entity/Q4917,134.0,2002-06-14T00:00:00Z
+http://www.wikidata.org/entity/Q156911,Wings of Desire,fantasy,3404057.0,http://www.wikidata.org/entity/Q4917,128.0,1987-05-17T00:00:00Z
+http://www.wikidata.org/entity/Q27964540,Wolf Warrior 2,action,870325439.0,http://www.wikidata.org/entity/Q4917,126.0,2017-07-27T00:00:00Z
+http://www.wikidata.org/entity/Q20502242,Wonder Woman,fantasy; action,822854286.0,http://www.wikidata.org/entity/Q4917,141.0,2017-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q33408623,Wonder Woman 1984,fantasy; action,169601036.0,http://www.wikidata.org/entity/Q4917,151.0,2020-12-25T00:00:00Z
+http://www.wikidata.org/entity/Q226773,Wrath of the Titans,fantasy; action,305300000.0,http://www.wikidata.org/entity/Q4917,99.0,2012-03-29T00:00:00Z
+http://www.wikidata.org/entity/Q105605250,X,Horror; горор,14660611.0,http://www.wikidata.org/entity/Q4917,106.0,2022-03-18T00:00:00Z
+http://www.wikidata.org/entity/Q106182,X-Men,sci-fi; илмӣ-тахаюллӣ; fantasy; action,296300000.0,http://www.wikidata.org/entity/Q4917,104.0,2000-07-13T00:00:00Z
+http://www.wikidata.org/entity/Q217552,X-Men Origins: Wolverine,action; sci-fi; илмӣ-тахаюллӣ,373100000.0,http://www.wikidata.org/entity/Q4917,107.0,2009-04-29T00:00:00Z
+http://www.wikidata.org/entity/Q17042878,X-Men: Apocalypse,fantasy; sci-fi; илмӣ-тахаюллӣ,543934105.0,http://www.wikidata.org/entity/Q4917,131.0,2016-05-18T00:00:00Z
+http://www.wikidata.org/entity/Q4985891,X-Men: Days of Future Past,action; sci-fi; илмӣ-тахаюллӣ,746045700.0,http://www.wikidata.org/entity/Q4917,131.0,2014-05-21T00:00:00Z
+http://www.wikidata.org/entity/Q221168,X-Men: The Last Stand,fantasy; action; sci-fi; илмӣ-тахаюллӣ,459400000.0,http://www.wikidata.org/entity/Q4917,104.0,2006-05-25T00:00:00Z
+http://www.wikidata.org/entity/Q219776,X2,fantasy; action; sci-fi; илмӣ-тахаюллӣ,407700000.0,http://www.wikidata.org/entity/Q4917,134.0,2003-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q958417,You Don't Mess with the Zohan,action,199936011.0,http://www.wikidata.org/entity/Q4917,112.0,2008-06-06T00:00:00Z
+http://www.wikidata.org/entity/Q107761,You Only Live Twice,action,111600000.0,http://www.wikidata.org/entity/Q4917,117.0,1967-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q148330,Zatōichi,action,34196922.0,http://www.wikidata.org/entity/Q4917,111.0,2003-09-02T00:00:00Z
+http://www.wikidata.org/entity/Q18157191,Zombeavers,sci-fi; илмӣ-тахаюллӣ; action,54985.0,http://www.wikidata.org/entity/Q4917,85.0,2014-04-13T00:00:00Z
+http://www.wikidata.org/entity/Q903613,Zombi 2,Horror; горор,3000000000.0,http://www.wikidata.org/entity/Q204992,88.0,1979-08-25T00:00:00Z
+http://www.wikidata.org/entity/Q219810,Zombieland,Horror; горор,102392080.0,http://www.wikidata.org/entity/Q4917,88.0,2009-09-25T00:00:00Z
+http://www.wikidata.org/entity/Q58879016,Zombieland: Double Tap,горор; Horror,87107000.0,http://www.wikidata.org/entity/Q4917,93.0,2019-10-17T00:00:00Z
+http://www.wikidata.org/entity/Q283799,xXx,action,277400000.0,http://www.wikidata.org/entity/Q4917,124.0,2002-08-09T00:00:00Z
+http://www.wikidata.org/entity/Q22075020,xXx Return of Xander Cage,action,346118277.0,http://www.wikidata.org/entity/Q4917,107.0,2017-01-19T00:00:00Z
