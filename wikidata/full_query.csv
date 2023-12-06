@@ -79,7 +79,6 @@
 77,http://www.wikidata.org/entity/Q162729,Braveheart,action,213200000.0,430981978.97503287,http://www.wikidata.org/entity/Q4917,177.0,1995-05-24T00:00:00Z,5,1995
 78,http://www.wikidata.org/entity/Q875904,Bride of Frankenstein,Horror; горор; sci-fi; илмӣ-тахаюллӣ,2000000.0,44590000.0,http://www.wikidata.org/entity/Q4917,78.0,1935-04-20T00:00:00Z,4,1935
 79,http://www.wikidata.org/entity/Q99900595,Bullet Train,action,239246943.0,248448562.15067366,http://www.wikidata.org/entity/Q4917,126.0,2022-07-14T00:00:00Z,7,2022
-80,http://www.wikidata.org/entity/Q1004410,Bullet in the Head,action,8545123.0,19977861.235053193,http://www.wikidata.org/entity/Q31015,136.0,1990-08-17T00:00:00Z,8,1990
 81,http://www.wikidata.org/entity/Q64174907,Candyman,Horror; горор,77411570.0,87062018.2751209,http://www.wikidata.org/entity/Q4917,91.0,2021-08-26T00:00:00Z,8,2021
 82,http://www.wikidata.org/entity/Q275120,Captain America: The First Avenger,sci-fi; илмӣ-тахаюллӣ; action,370569774.0,504659010.35027134,http://www.wikidata.org/entity/Q4917,124.0,2011-07-22T00:00:00Z,7,2011
 83,http://www.wikidata.org/entity/Q1765358,Captain America: The Winter Soldier,action; sci-fi; илмӣ-тахаюллӣ,714421503.0,930229749.7154506,http://www.wikidata.org/entity/Q4917,136.0,2014-03-26T00:00:00Z,3,2014
@@ -160,11 +159,9 @@
 158,http://www.wikidata.org/entity/Q3038433,Dr. Who and the Daleks,sci-fi; илмӣ-тахаюллӣ,114062.0,1110556.000063291,http://www.wikidata.org/entity/Q4917,88.0,1965-06-24T00:00:00Z,6,1965
 159,http://www.wikidata.org/entity/Q14512114,Dracula Untold,fantasy; action; Horror; горор,217124280.0,281354505.7000501,http://www.wikidata.org/entity/Q4917,92.0,2014-10-02T00:00:00Z,10,2014
 160,http://www.wikidata.org/entity/Q107656066,Dragon Ball Super: Super Hero,action; fantasy,69689168.0,72360918.11552052,http://www.wikidata.org/entity/Q4917,99.0,2022-06-11T00:00:00Z,6,2022
-161,http://www.wikidata.org/entity/Q1130576,Dragon Ball Z: Wrath of the Dragon,action; sci-fi; илмӣ-тахаюллӣ,2300000000.0,4640283934.4262295,http://www.wikidata.org/entity/Q8146,52.0,1995-07-15T00:00:00Z,7,1995
 162,http://www.wikidata.org/entity/Q653303,Dragonball Evolution,sci-fi; илмӣ-тахаюллӣ; fantasy; action,55720772.0,80596804.28196268,http://www.wikidata.org/entity/Q4917,82.0,2009-03-13T00:00:00Z,3,2009
 163,http://www.wikidata.org/entity/Q60834962,Dune,action; sci-fi; илмӣ-тахаюллӣ,401847900.0,450719788.7094892,http://www.wikidata.org/entity/Q4917,155.0,2021-09-03T00:00:00Z,9,2021
 164,http://www.wikidata.org/entity/Q11621,E.T. the Extra-Terrestrial,sci-fi; илмӣ-тахаюллӣ,792910554.0,2546509217.742526,http://www.wikidata.org/entity/Q4917,115.0,1982-05-26T00:00:00Z,5,1982
-165,http://www.wikidata.org/entity/Q1003128,Eastern Condors,action,21606063.0,58414402.54194201,http://www.wikidata.org/entity/Q31015,100.0,1987-07-09T00:00:00Z,7,1987
 166,http://www.wikidata.org/entity/Q1187607,Edge of Tomorrow,sci-fi; илмӣ-тахаюллӣ,370500000.0,479159754.09836066,http://www.wikidata.org/entity/Q4917,113.0,2014-05-29T00:00:00Z,5,2014
 167,http://www.wikidata.org/entity/Q217182,Edward Scissorhands,илмӣ-тахаюллӣ; fantasy; Horror; горор; sci-fi,86024005.0,197810849.34495515,http://www.wikidata.org/entity/Q4917,105.0,1990-12-06T00:00:00Z,12,1990
 168,http://www.wikidata.org/entity/Q949879,Elf,fantasy,225097437.0,375371021.89282924,http://www.wikidata.org/entity/Q4917,97.0,2003-11-07T00:00:00Z,11,2003
@@ -727,7 +724,6 @@
 725,http://www.wikidata.org/entity/Q107761,You Only Live Twice,action,111600000.0,1031113621.6216217,http://www.wikidata.org/entity/Q4917,117.0,1967-06-12T00:00:00Z,6,1967
 726,http://www.wikidata.org/entity/Q148330,Zatōichi,action,34196922.0,56811021.53705184,http://www.wikidata.org/entity/Q4917,111.0,2003-09-02T00:00:00Z,9,2003
 727,http://www.wikidata.org/entity/Q18157191,Zombeavers,sci-fi; илмӣ-тахаюллӣ; action,54985.0,71359.29141779713,http://www.wikidata.org/entity/Q4917,85.0,2014-04-13T00:00:00Z,4,2014
-728,http://www.wikidata.org/entity/Q903613,Zombi 2,Horror; горор,3000000000.0,12506951219.512196,http://www.wikidata.org/entity/Q204992,88.0,1979-08-25T00:00:00Z,8,1979
 729,http://www.wikidata.org/entity/Q219810,Zombieland,Horror; горор,102392080.0,145868498.00517666,http://www.wikidata.org/entity/Q4917,88.0,2009-09-25T00:00:00Z,9,2009
 730,http://www.wikidata.org/entity/Q58879016,Zombieland: Double Tap,горор; Horror,87107000.0,104141108.84567858,http://www.wikidata.org/entity/Q4917,93.0,2019-10-17T00:00:00Z,10,2019
 731,http://www.wikidata.org/entity/Q283799,xXx,action,277400000.0,472318402.8776979,http://www.wikidata.org/entity/Q4917,124.0,2002-08-09T00:00:00Z,8,2002
